@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A60E8399AD24772C}XOB/JR 3d/Data/KB3D_FAV_WoodPly.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

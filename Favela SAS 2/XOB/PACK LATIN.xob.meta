@@ -1,0 +1,225 @@
+MetaFileClass {
+ Name "{3D2A7E7EBEC1A177}XOB/PACK LATIN.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6510070012D5F911}" {
+     SourceMaterial "LATIN_0"
+     AssignedMaterial "{2DDA46FE84AD5A03}XOB/Data/LATIN_0.emat"
+    }
+    MaterialAssignClass "{6510070012D5F92B}" {
+     SourceMaterial "LATIN1"
+     AssignedMaterial "{56696F2EDD93DA53}XOB/Data/LATIN1.emat"
+    }
+    MaterialAssignClass "{6510070012D5F932}" {
+     SourceMaterial "LATIN10"
+     AssignedMaterial "{DC7C2F45745C62E7}XOB/Data/LATIN10.emat"
+    }
+    MaterialAssignClass "{6510070012D5F939}" {
+     SourceMaterial "LATIN11"
+     AssignedMaterial "{287468DD79810A93}XOB/Data/LATIN11.emat"
+    }
+    MaterialAssignClass "{6510070012D5F94C}" {
+     SourceMaterial "LATIN12"
+     AssignedMaterial "{769C419EC60C849C}XOB/Data/LATIN12.emat"
+    }
+    MaterialAssignClass "{6510070012D5F952}" {
+     SourceMaterial "LATIN13"
+     AssignedMaterial "{82940606CBD1ECE8}XOB/Data/LATIN13.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8EC}" {
+     SourceMaterial "LATIN8"
+     AssignedMaterial "{8C01500F4AD946ED}XOB/Data/LATIN8.emat"
+    }
+    MaterialAssignClass "{6510070012D5F966}" {
+     SourceMaterial "LATIN15"
+     AssignedMaterial "{3F445481B4CAF0F6}XOB/Data/LATIN15.emat"
+    }
+    MaterialAssignClass "{6510070012D5F963}" {
+     SourceMaterial "LATIN16"
+     AssignedMaterial "{61AC7DC20B477EF9}XOB/Data/LATIN16.emat"
+    }
+    MaterialAssignClass "{6510070012D5F96A}" {
+     SourceMaterial "LATIN17"
+     AssignedMaterial "{95A43A5A069A168D}XOB/Data/LATIN17.emat"
+    }
+    MaterialAssignClass "{6510070012D5F972}" {
+     SourceMaterial "LATIN18"
+     AssignedMaterial "{F21C57FCEECB962D}XOB/Data/LATIN18.emat"
+    }
+    MaterialAssignClass "{6510070012D5F979}" {
+     SourceMaterial "LATIN19"
+     AssignedMaterial "{06141064E316FE59}XOB/Data/LATIN19.emat"
+    }
+    MaterialAssignClass "{6510070012D5F886}" {
+     SourceMaterial "LATIN2"
+     AssignedMaterial "{0881466D621E545C}XOB/Data/LATIN2.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8EF}" {
+     SourceMaterial "LATIN9"
+     AssignedMaterial "{7809179747042E99}XOB/Data/LATIN9.emat"
+    }
+    MaterialAssignClass "{6510070012D5F88A}" {
+     SourceMaterial "LATIN22"
+     AssignedMaterial "{7C3911D3701C771B}XOB/Data/LATIN22.emat"
+    }
+    MaterialAssignClass "{6510070012D5F896}" {
+     SourceMaterial "LATIN23"
+     AssignedMaterial "{8831564B7DC11F6F}XOB/Data/LATIN23.emat"
+    }
+    MaterialAssignClass "{6510070012D5F893}" {
+     SourceMaterial "LATIN24"
+     AssignedMaterial "{C1E943540F076B05}XOB/Data/LATIN24.emat"
+    }
+    MaterialAssignClass "{6510070012D5F89E}" {
+     SourceMaterial "LATIN25"
+     AssignedMaterial "{35E104CC02DA0371}XOB/Data/LATIN25.emat"
+    }
+    MaterialAssignClass "{6510070012D5F89A}" {
+     SourceMaterial "LATIN26"
+     AssignedMaterial "{6B092D8FBD578D7E}XOB/Data/LATIN26.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8A7}" {
+     SourceMaterial "LATIN27"
+     AssignedMaterial "{9F016A17B08AE50A}XOB/Data/LATIN27.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8AE}" {
+     SourceMaterial "LATIN28"
+     AssignedMaterial "{F8B907B158DB65AA}XOB/Data/LATIN28.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8AA}" {
+     SourceMaterial "LATIN29"
+     AssignedMaterial "{0CB1402955060DDE}XOB/Data/LATIN29.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8B4}" {
+     SourceMaterial "LATIN3"
+     AssignedMaterial "{FC8901F56FC33C28}XOB/Data/LATIN3.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8BE}" {
+     SourceMaterial "LATIN30"
+     AssignedMaterial "{1115EF95371AD26C}XOB/Data/LATIN30.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8BB}" {
+     SourceMaterial "LATIN31"
+     AssignedMaterial "{E51DA80D3AC7BA18}XOB/Data/LATIN31.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8CC}" {
+     SourceMaterial "LATIN32"
+     AssignedMaterial "{BBF5814E854A3417}XOB/Data/LATIN32.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8C8}" {
+     SourceMaterial "LATIN33"
+     AssignedMaterial "{4FFDC6D688975C63}XOB/Data/LATIN33.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8D4}" {
+     SourceMaterial "LATIN34"
+     AssignedMaterial "{0625D3C9FA512809}XOB/Data/LATIN34.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8D2}" {
+     SourceMaterial "LATIN4"
+     AssignedMaterial "{B55114EA1D054842}XOB/Data/LATIN4.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8DE}" {
+     SourceMaterial "LATIN5"
+     AssignedMaterial "{4159537210D82036}XOB/Data/LATIN5.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8DB}" {
+     SourceMaterial "LATIN6"
+     AssignedMaterial "{1FB17A31AF55AE39}XOB/Data/LATIN6.emat"
+    }
+    MaterialAssignClass "{6510070012D5F8E0}" {
+     SourceMaterial "LATIN7"
+     AssignedMaterial "{EBB93DA9A288C64D}XOB/Data/LATIN7.emat"
+    }
+   }
+   MeshParams {
+    MeshParam model_0 {
+    }
+    MeshParam model_1 {
+    }
+    MeshParam model_10 {
+    }
+    MeshParam model_11 {
+    }
+    MeshParam model_12 {
+    }
+    MeshParam model_13 {
+    }
+    MeshParam model_15 {
+    }
+    MeshParam model_16 {
+    }
+    MeshParam model_17 {
+    }
+    MeshParam model_18 {
+    }
+    MeshParam model_19 {
+    }
+    MeshParam model_2 {
+    }
+    MeshParam model_22 {
+    }
+    MeshParam model_23 {
+    }
+    MeshParam model_24 {
+    }
+    MeshParam model_25 {
+    }
+    MeshParam model_26 {
+    }
+    MeshParam model_27 {
+    }
+    MeshParam model_28 {
+    }
+    MeshParam model_29 {
+    }
+    MeshParam model_3 {
+    }
+    MeshParam model_30 {
+    }
+    MeshParam model_31 {
+    }
+    MeshParam model_32 {
+    }
+    MeshParam model_33 {
+    }
+    MeshParam model_34 {
+    }
+    MeshParam model_4 {
+    }
+    MeshParam model_5 {
+    }
+    MeshParam model_6 {
+    }
+    MeshParam model_7 {
+    }
+    MeshParam model_8 {
+    }
+    MeshParam model_9 {
+    }
+   }
+   Common TXOCommonClass "{651007001264AFFA}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{651007001264AE02}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{651007001264AE64}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{651007001264ADAA}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{651007001264ADF7}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{651007001264AD32}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

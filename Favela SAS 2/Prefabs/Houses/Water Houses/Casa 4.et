@@ -1,0 +1,9 @@
+SCR_DestructibleBuildingEntity : "{4E1EADE674922D16}Prefabs/Houses/Small Houses/CASA 1.et" {
+ ID "64A1139E258ED950"
+ components {
+  MeshObject "{64A1139E0C9C871B}" {
+   Object "{DBCBAD4280CBA918}XOB/CASA 4.xob"
+  }
+ }
+ coords 322.399 -0 811.481
+}

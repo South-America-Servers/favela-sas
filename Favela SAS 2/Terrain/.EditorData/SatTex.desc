@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/Gerso/Desktop/satelite.png"
+ sRGBOutput 0
+ RenderRoads 0
+ Interpolation bilinear
+ RoadsAA "8x"
+}

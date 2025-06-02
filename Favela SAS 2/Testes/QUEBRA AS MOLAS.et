@@ -1,0 +1,28 @@
+SCR_DestructibleBuildingEntity {
+ ID "64B36A333F077402"
+ components {
+  SignalsManagerComponent "{64B36A3322F49FBB}" {
+  }
+  MeshObject "{64B36A3322F49FD1}" {
+   Object "{E48AF251F021A036}Testes/Quebra mola.xob"
+   LODFactors {
+    20 15 10 10 1
+   }
+   ClutterOccluder 1
+  }
+  RigidBody "{64B36A3322F49FDA}" {
+   ModelGeometry 1
+   Static 1
+  }
+  WorldSubsceneComponent "{64B36A3322F49FE1}" {
+  }
+  RplComponent "{64B36A3322F49FEA}" {
+   Enabled 0
+  }
+  Hierarchy "{64B36A3322F49FF7}" {
+  }
+ }
+ coords 304.495 0 105.914
+ angleY 124.566
+ Flags 525315
+}

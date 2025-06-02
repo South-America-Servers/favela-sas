@@ -1,0 +1,95 @@
+MetaFileClass {
+ Name "{9FBEE26419B2C571}XOB/PACK CASAS.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6515603329994CB6}" {
+     SourceMaterial "PACKCASAS0"
+     AssignedMaterial "{44304BB26E911978}XOB/Data/PACKCASAS0.emat"
+    }
+    MaterialAssignClass "{6515603329994CC5}" {
+     SourceMaterial "PACKCASAS1"
+     AssignedMaterial "{B0380C2A634C710C}XOB/Data/PACKCASAS1.emat"
+    }
+    MaterialAssignClass "{6515603329994CC2}" {
+     SourceMaterial "PACKCASAS10"
+     AssignedMaterial "{A148984340FCE222}XOB/Data/PACKCASAS10.emat"
+    }
+    MaterialAssignClass "{6515603329994CCC}" {
+     SourceMaterial "PACKCASAS11"
+     AssignedMaterial "{5540DFDB4D218A56}XOB/Data/PACKCASAS11.emat"
+    }
+    MaterialAssignClass "{6515603329994CF7}" {
+     SourceMaterial "PACKCASAS8"
+     AssignedMaterial "{6A50330BF406EDB2}XOB/Data/PACKCASAS8.emat"
+    }
+    MaterialAssignClass "{6515603329994CF3}" {
+     SourceMaterial "PACKCASAS9"
+     AssignedMaterial "{9E587493F9DB85C6}XOB/Data/PACKCASAS9.emat"
+    }
+    MaterialAssignClass "{6515603329994CF5}" {
+     SourceMaterial "PACKCASAS7"
+     AssignedMaterial "{0DE85EAD1C576D12}XOB/Data/PACKCASAS7.emat"
+    }
+    MaterialAssignClass "{6515603329994CE9}" {
+     SourceMaterial "PACKCASAS6"
+     AssignedMaterial "{F9E01935118A0566}XOB/Data/PACKCASAS6.emat"
+    }
+    MaterialAssignClass "{6515603329994CEE}" {
+     SourceMaterial "PACKCASAS5"
+     AssignedMaterial "{A7083076AE078B69}XOB/Data/PACKCASAS5.emat"
+    }
+    MaterialAssignClass "{6515603329994CE3}" {
+     SourceMaterial "PACKCASAS4"
+     AssignedMaterial "{530077EEA3DAE31D}XOB/Data/PACKCASAS4.emat"
+    }
+    MaterialAssignClass "{6515603329994CE5}" {
+     SourceMaterial "PACKCASAS2"
+     AssignedMaterial "{EED02569DCC1FF03}XOB/Data/PACKCASAS2.emat"
+    }
+   }
+   MeshParams {
+    MeshParam model_10 {
+    }
+    MeshParam model_11 {
+    }
+    MeshParam model_2 {
+    }
+    MeshParam model_4 {
+    }
+    MeshParam model_5 {
+    }
+    MeshParam model_6 {
+    }
+    MeshParam model_7 {
+    }
+    MeshParam model_8 {
+    }
+    MeshParam model_9 {
+    }
+   }
+   Common TXOCommonClass "{65156032D7A56905}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65156032D7A568D8}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65156032D7A5681E}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65156032D7A56849}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65156032D7A56879}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65156032D7A56FB2}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

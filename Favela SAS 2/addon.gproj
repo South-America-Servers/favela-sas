@@ -1,0 +1,8 @@
+GameProject {
+ ID "FavelaSAS2"
+ GUID "655D6CB74D45475C"
+ TITLE "Favela SAS 2"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

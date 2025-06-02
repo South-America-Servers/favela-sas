@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AC2FCB59FE8DD622}XOB/JR 3d/Data/KB3D_FAV_Cardboard.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

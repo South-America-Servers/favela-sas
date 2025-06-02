@@ -1,0 +1,463 @@
+SplineShapeEntity {
+ coords 9079.679 43.267 4974.172
+ Points {
+  ShapePoint "{64A13A657018C875}" {
+   Position 0 0 0
+  }
+  ShapePoint "{64A13A657018C0CD}" {
+   Position -18.887 4.161 4.543
+  }
+  ShapePoint "{64A13A6508451216}" {
+   Position -40.838 9.145 6.822
+  }
+  ShapePoint "{64A13A65096AE18E}" {
+   Position -64.785 14.208 -4.912
+  }
+  ShapePoint "{64A13A65002A754E}" {
+   Position -85.992 19.436 -31.083
+  }
+  ShapePoint "{64A13A6500A43B34}" {
+   Position -118.174 28.516 -67.866
+  }
+  ShapePoint "{64A13A65051B9655}" {
+   Position -144.714 37.006 -84.715
+  }
+  ShapePoint "{64A13A650628982F}" {
+   Position -163.144 43.651 -99.891
+  }
+  ShapePoint "{64A13A65069686E5}" {
+   Position -175.312 49.121 -117.159
+  }
+  ShapePoint "{64A13A6518C42A40}" {
+   Position -198.277 57.618 -150.477
+  }
+  ShapePoint "{64A13A651A1B26AA}" {
+   Position -218.377 62.188 -169.226
+  }
+  ShapePoint "{64A13A651AA74B0D}" {
+   Position -249.061 67.555 -176.853
+  }
+  ShapePoint "{64A13A651BE334B7}" {
+   Position -278.992 74.267 -193.478
+  }
+  ShapePoint "{64A13A651D47E18B}" {
+   Position -315.624 84.423 -221.514
+  }
+  ShapePoint "{64A13A651EAFF1A4}" {
+   Position -354.746 94.768 -236.432
+  }
+  ShapePoint "{64A13A651F3C1978}" {
+   Position -408.739 108.711 -228.055
+  }
+ }
+ {
+  RoadGeneratorEntity : "{FBF452B7DEBBC974}Prefabs/WEGenerators/Roads/Asphalt/RG_Road_Asphalt_E_03.et" {
+   coords 0 0 0
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{041BFAB024F089C9}Prefabs/Misc/Postes/Fio grande.et" {
+ {
+  coords 8796.237 1.27 4772.593
+  angleX 0.522
+  angleY -36.373
+  angleZ 11.76
+ }
+ {
+  coords 8773.855 1.207 4757.101
+  angleX -0.045
+  angleY -33.954
+  angleZ 11.743
+ }
+ {
+  coords 8790.839 3.032 4773.355
+  angleX 4.411
+  angleY -55.596
+  angleZ 10.828
+  scale 0.803
+ }
+ {
+  coords 8786.142 1.26 4774.094
+  angleX 0.522
+  angleY -36.373
+  angleZ 11.76
+ }
+}
+SCR_DestructibleBuildingEntity : "{199A3AAE591B1525}Prefabs/Misc/Barricadas e Muros/Barricadas/Barricada 3.et" {
+ coords 8802.755 0.001 4780.754
+ angleX -6.063
+ angleY -1.046
+ angleZ 9.808
+}
+SCR_DestructibleBuildingEntity : "{2F4AB659C2CA48C2}Prefabs/Houses/Small Houses/Casa 21.et" {
+ coords 8789.46 -0 4760.154
+ angleX 3.37
+ angleY 145.009
+ angleZ -15.089
+}
+SCR_DestructibleBuildingEntity : "{2F840027158D93E0}Prefabs/Misc/Escadas/Escada 3.et" {
+ coords 8788.746 -0.001 4776.945
+ angleX 2.178
+ angleY -36.064
+ angleZ 10.47
+}
+$grp SCR_DestructibleBuildingEntity : "{333EC6923B2F5117}Prefabs/Misc/Diversos/Cadeira.et" {
+ {
+  coords 8797.608 0 4781.957
+  angleX 7.479
+  angleY -69.32
+  angleZ 10.293
+ }
+ {
+  coords 8796.319 0.001 4780.853
+  angleX 6.514
+  angleY -66.559
+  angleZ 9.516
+ }
+}
+SCR_DestructibleBuildingEntity : "{40169819E6EB6CC2}Prefabs/Houses/Medium houses/Casa 7.et" {
+ coords 8737.339 -0.162 4754.795
+ angleX -3.418
+ angleY -30.829
+ angleZ 18.066
+}
+SCR_DestructibleBuildingEntity : "{431E82B97E0EC7EC}Prefabs/Houses/Small Houses/Casa 22.et" {
+ coords 8807.934 -0.251 4773.928
+ angleX -0.876
+ angleY 141.119
+ angleZ -9.553
+}
+$grp SCR_DestructibleBuildingEntity : "{45B3F39BF316C90B}Prefabs/Houses/Big Houses/Casa 2.et" {
+ {
+  coords 8748.781 -1.278 4732.358
+  angleX -10.236
+  angleY -28.879
+  angleZ 12.255
+ }
+ {
+  coords 8703.58 -0.887 4727.175
+  angleX -3.859
+  angleY 1.138
+  angleZ 13.936
+ }
+}
+SCR_DestructibleBuildingEntity : "{473C3C24C1080460}Prefabs/Misc/Postes/Fio pequeno.et" {
+ coords 8801.229 0.486 4782.625
+ angleX -2.5
+ angleY 12.644
+ angleZ 12.627
+}
+SCR_DestructibleBuildingEntity : "{4E1EADE674922D16}Prefabs/Houses/Small Houses/CASA 1.et" {
+ coords 8791.072 0 4784.049
+ angleX 8.613
+ angleY -123.829
+ angleZ -4.675
+}
+SCR_DestructibleBuildingEntity : "{53C84339D3C8EE39}Prefabs/Houses/Small Houses/Casa 10.et" {
+ coords 8779.064 0.001 4754.986
+ angleX 6.93
+ angleY 144.427
+ angleZ -13.679
+}
+SCR_DestructibleBuildingEntity : "{6771AB74A9E3BE2B}Prefabs/Houses/Medium houses/Casa 11.et" {
+ coords 8753.171 -0.048 4768.71
+ angleX -0.541
+ angleY -37.587
+ angleZ 13.706
+}
+SCR_DestructibleBuildingEntity : "{77C54FD5B1C0B060}Prefabs/Misc/Diversos/Varal.et" {
+ coords 8799.113 0 4774.813
+ angleX -12.409
+ angleY 68.791
+ angleZ -2.723
+}
+SCR_DestructibleBuildingEntity : "{8B602AF8AA41F065}Prefabs/Houses/Small Houses/Casa 16.et" {
+ coords 8338.391 0.001 4592.922
+ angleY -127.778
+}
+SCR_DestructibleBuildingEntity : "{8C391EB2F3988759}Prefabs/Houses/Small Houses/Casa 25 (USAR NA PAREDE).et" {
+ coords 8798.037 0 4787.05
+ angleX 7.23
+ angleY -38.958
+ angleZ 13.984
+}
+SCR_DestructibleBuildingEntity : "{9BB6EB780787D9B0}Prefabs/Houses/Small Houses/Casa 24.et" {
+ coords 8785.592 0.034 4779.128
+ angleX -3.355
+ angleY 145.531
+ angleZ -9.533
+}
+$grp SCR_DestructibleBuildingEntity : "{9F242CDA40CAB30A}Prefabs/Misc/Postes/Poste 1.et" {
+ {
+  coords 8807.363 0 4779.964
+  angleX -6.074
+  angleY -26.191
+  angleZ 13.632
+ }
+ {
+  coords 8785.051 0 4764.473
+  angleX -2.65
+  angleY -25.481
+  angleZ 12.926
+ }
+ {
+  coords 8762.328 -0.249 4749.474
+  angleX -3.203
+  angleY -23.055
+  angleZ 12.802
+ }
+ {
+  coords 8796.457 0.193 4782.45
+  angleX -0.43
+  angleY -24.806
+  angleZ 13.736
+ }
+ {
+  coords 8775.145 -0.124 4766.178
+  angleX -0.095
+  angleY -38.186
+  angleZ 11.315
+ }
+}
+SCR_DestructibleBuildingEntity : "{A02FBF62FFF35E60}Prefabs/Houses/Big Houses/Casa 3.et" {
+ coords 8769.378 0.035 4739.779
+ angleX 8.321
+ angleY 147.016
+ angleZ -14.564
+}
+SCR_DestructibleBuildingEntity : "{A682CE4072EB5087}Prefabs/Houses/Small Houses/Casa 23.et" {
+ coords 8798.456 0.024 4769.049
+ angleX 10.636
+ angleY -128.108
+ angleZ 0.651
+}
+GenericEntity : "{A80F0848BFF11327}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_doubleAngled.et" {
+ coords 8343.673 0 4591.526
+}
+SCR_DestructibleBuildingEntity : "{C18A9ACBFC40894A}Prefabs/Misc/Diversos/Mesa 1.et" {
+ coords 8801.521 -0.004 4776.285
+ angleX -1.539
+ angleY -32.339
+ angleZ 12.427
+}
+SCR_DestructibleBuildingEntity : "{CAD6FAA0CE2FDFA9}Prefabs/Houses/Small Houses/Casa 20.et" {
+ coords 8771.786 -0.028 4770.235
+ angleX -0.095
+ angleY -35.581
+ angleZ 11.998
+}
+SCR_DestructibleBuildingEntity : "{DFE29E9000D7E9C7}Prefabs/Houses/Medium houses/Casa 8.et" {
+ coords 8725.407 -1.016 4729.478
+ angleX -11.99
+ angleY -1.924
+ angleZ 11.684
+}
+$grp GameEntity : "{E58DA987A920AB40}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LightPrefabs/LampStreet_E_02_glass_single.et" {
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8808.832 125.297 4781.842
+  angleX -6.884
+  angleY -1.297
+  angleZ 10.698
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8786.705 131.342 4765.727
+  angleX -6.884
+  angleY -1.297
+  angleZ 10.698
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8763.971 137.212 4750.948
+  angleX -6.884
+  angleY -1.297
+  angleZ 10.698
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8736.403 142.885 4738.05
+  angleX -6.884
+  angleY -1.297
+  angleZ 10.698
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8798.166 127.087 4783.514
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8776.58 132.895 4767.324
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8750.564 152.469 4738.298
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8743.505 153.267 4761.076
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8778.71 142.317 4756.8
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8709.001 162.571 4730.127
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+ {
+  components {
+   Hierarchy "{51C4DA20F011E284}" {
+    PivotID "Socket_doubleStraight_glass_02"
+   }
+  }
+  coords 8710.371 154.79 4729.284
+  angleX -6.042
+  angleY 118.296
+  angleZ -11.191
+  {
+   LightEntity {
+    ID "5A42D21E6C98C5BF"
+    coords 0.001 -0.136 0.064
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{F10860884098E20B}Prefabs/Houses/Small Houses/Casa 18.et" {
+ coords 8779.116 0.042 4776.394
+ angleX 11.068
+ angleY -120.931
+ angleZ -0.446
+}
+$grp SCR_DestructibleBuildingEntity : "{FC06765755FE824E}Prefabs/Misc/Barricadas e Muros/Barricadas/Barricada 2.et" {
+ {
+  coords 8804.814 -0 4780.546
+  angleX -12.378
+  angleY 43.179
+  angleZ 2.863
+ }
+ {
+  coords 8801.25 -0 4781.448
+  angleX -10.57
+  angleY 81.188
+  angleZ -4.595
+ }
+}

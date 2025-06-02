@@ -1,0 +1,54 @@
+MetaFileClass {
+ Name "{B5D3B6DDF98756EC}XOB/JR 3d/Placa 3.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{64A37CD587B06B14}" {
+     SourceMaterial "Haste"
+     AssignedMaterial "{D346D27BD2A0C5D9}XOB/JR 3d/Data/Haste.emat"
+    }
+    MaterialAssignClass "{64A37CD587B06B1D}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{D0EC8D1738C8197F}XOB/JR 3d/Data/Material.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Haste {
+    }
+    MeshParam Placa {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_OBJ {
+     SurfaceProperties {
+      "{CE9253778DD8FBDE}Common/Materials/Game/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{64A37CD587BE7E9C}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{64A37CD587BE7E44}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{64A37CD587BE7E7F}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{64A37CD587BE7DA6}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{64A37CD587BE7DC2}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{64A37CD587BE7DE3}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

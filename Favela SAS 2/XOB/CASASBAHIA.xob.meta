@@ -1,0 +1,91 @@
+MetaFileClass {
+ Name "{C14ECF3D1A687693}XOB/CASASBAHIA.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65156036245097B7}" {
+     SourceMaterial "CASASBAHIA7"
+     AssignedMaterial "{1F29E7C52D607B05}XOB/Data/CASASBAHIA7.emat"
+    }
+    MaterialAssignClass "{65156036245097CD}" {
+     SourceMaterial "portas"
+     AssignedMaterial "{0A361AC87CBFCAD1}XOB/Data/portas.emat"
+    }
+    MaterialAssignClass "{65156036245097CA}" {
+     SourceMaterial "CASASBAHIA6"
+     AssignedMaterial "{EB21A05D20BD1371}XOB/Data/CASASBAHIA6.emat"
+    }
+    MaterialAssignClass "{65156036245097D5}" {
+     SourceMaterial "CASASBAHIA5"
+     AssignedMaterial "{B5C9891E9F309D7E}XOB/Data/CASASBAHIA5.emat"
+    }
+    MaterialAssignClass "{65156036245097D2}" {
+     SourceMaterial "CASASBAHIA4"
+     AssignedMaterial "{41C1CE8692EDF50A}XOB/Data/CASASBAHIA4.emat"
+    }
+    MaterialAssignClass "{65156036245097D9}" {
+     SourceMaterial "CASASBAHIA3"
+     AssignedMaterial "{0819DB99E02B8160}XOB/Data/CASASBAHIA3.emat"
+    }
+    MaterialAssignClass "{65156036245097E4}" {
+     SourceMaterial "CASASBAHIA2"
+     AssignedMaterial "{FC119C01EDF6E914}XOB/Data/CASASBAHIA2.emat"
+    }
+    MaterialAssignClass "{65156036245097E6}" {
+     SourceMaterial "CASASBAHIA1"
+     AssignedMaterial "{A2F9B542527B671B}XOB/Data/CASASBAHIA1.emat"
+    }
+    MaterialAssignClass "{65156036245097E1}" {
+     SourceMaterial "cube"
+     AssignedMaterial "{DFD023B889E5754D}XOB/Data/CUBE.emat"
+    }
+   }
+   MeshParams {
+    MeshParam CASASBAHIA {
+    }
+    MeshParam CUBE {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASABAHIA {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_CUBE {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{651560362458B7A5}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{651560362458B743}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{651560362458B77F}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{651560362458B6A2}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{651560362458B6CD}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{651560362458B6FF}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

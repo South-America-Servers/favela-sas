@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A951FB32FB7832F3}XOB/JR 3d/Data/KB3D_FAV_StuccoBrown.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

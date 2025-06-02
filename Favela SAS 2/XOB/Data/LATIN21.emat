@@ -1,0 +1,5 @@
+MatPBRBasic {
+ BCRMap "{70ABF0F3C916F05B}TEXTURES/Latin/VARAL/barracks_cloth.edds"
+ OpacityMap "{71471A65F4BAA077}TEXTURES/Latin/VARAL/clothline1_A.edds"
+ NMOMap "{061AC52DD6C1D469}TEXTURES/Latin/VARAL/barracks_cloth_normal.edds"
+}

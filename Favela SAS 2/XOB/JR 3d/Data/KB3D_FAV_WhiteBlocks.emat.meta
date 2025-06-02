@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{BE6C783E3A51C0BF}XOB/JR 3d/Data/KB3D_FAV_WhiteBlocks.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

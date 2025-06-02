@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E32652F722BE1A8C}XOB/JR 3d/Data/KB3D_FAV_ConcreteVar.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

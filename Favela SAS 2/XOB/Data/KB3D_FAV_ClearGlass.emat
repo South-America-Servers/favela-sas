@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0 0 0 1
+ BCRMap "{7D58C0674D26D53D}TEXTURES/EDDS/KB3D_FAV_ClearGlass_basecolor_BCR.edds"
+}

@@ -1,0 +1,27 @@
+SCR_DestructibleBuildingEntity {
+ ID "64A13A738F5A2DAB"
+ components {
+  SignalsManagerComponent "{64A13A73E7EA56AD}" {
+  }
+  MeshObject "{64A13A73E7EA56B8}" {
+   Object "{0D5ECF86E0BB6AEF}XOB/Casa 11.xob"
+   LODFactors {
+    20 15 10 10 1
+   }
+   ClutterOccluder 1
+  }
+  RigidBody "{64A13A73E7EA56C2}" {
+   ModelGeometry 1
+   Static 1
+  }
+  WorldSubsceneComponent "{64A13A73E7EA56C9}" {
+  }
+  RplComponent "{64A13A73E7EA56D3}" {
+   Enabled 0
+  }
+  Hierarchy "{64A13A73E7EA56DF}" {
+  }
+ }
+ coords 236.693 -0 765.845
+ Flags 525315
+}

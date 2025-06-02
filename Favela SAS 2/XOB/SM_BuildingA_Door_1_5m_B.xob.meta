@@ -1,0 +1,54 @@
+MetaFileClass {
+ Name "{1D1F955B1B490C68}XOB/SM_BuildingA_Door_1_5m_B.xob"
+ Configurations {
+  FBXResourceClass PC {
+   ExportSkinning 1
+   MaterialAssigns {
+    MaterialAssignClass "{6532281389E1723D}" {
+     SourceMaterial "MI_TrimSheet_B_01"
+     AssignedMaterial "{D9571D1D51CC2C8F}XOB/Data/MI_TrimSheet_B_01.emat"
+    }
+    MaterialAssignClass "{6532281389E17265}" {
+     SourceMaterial "MI_TrimSheet_D"
+     AssignedMaterial "{FE98B3CF91CD8726}XOB/Data/MI_TrimSheet_D.emat"
+    }
+    MaterialAssignClass "{6532281389E17262}" {
+     SourceMaterial "MI_Brick01"
+     AssignedMaterial "{046203B66EDDBA2F}XOB/Data/MI_Brick01.emat"
+    }
+   }
+   MeshParams {
+    MeshParam SM_BuildingA_Door_1_5m_B_LOD0 {
+    }
+    MeshParam SM_BuildingA_Door_1_5m_B_LOD1 {
+    }
+    MeshParam SM_BuildingA_Door_1_5m_B_LOD2 {
+    }
+    MeshParam SM_BuildingA_Door_1_5m_B_LOD3 {
+    }
+   }
+   Common TXOCommonClass "{6532281389DC39FA}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6532281389DC3E46}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6532281389DC3D8D}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6532281389DC3DBC}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6532281389DC3DEA}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6532281389DC3D35}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

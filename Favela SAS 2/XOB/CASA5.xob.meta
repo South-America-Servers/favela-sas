@@ -1,0 +1,134 @@
+MetaFileClass {
+ Name "{2A6C6375499EA3BB}XOB/CASA5.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6510071F1FACFDC4}" {
+     SourceMaterial "KB3D_FAV_ConcreteFoundationVar"
+     AssignedMaterial "{CABB62BF655F8BA2}XOB/Data/KB3D_FAV_ConcreteFoundationVar.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDDD}" {
+     SourceMaterial "KB3D_FAV_Plastics"
+     AssignedMaterial "{F1928F7FE39BCF42}XOB/Data/KB3D_FAV_Plastics.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDD9}" {
+     SourceMaterial "KB3D_FAV_Rubber"
+     AssignedMaterial "{19D9E0551FFA3329}XOB/Data/KB3D_FAV_Rubber.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDE6}" {
+     SourceMaterial "KB3D_FAV_IronLight"
+     AssignedMaterial "{26C0524657EB40F8}XOB/Data/KB3D_FAV_IronLight.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDE2}" {
+     SourceMaterial "KB3D_FAV_MetalPaintedWhite"
+     AssignedMaterial "{D2F5ABC4DA4682DD}XOB/Data/KB3D_FAV_MetalPaintedWhite.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDE8}" {
+     SourceMaterial "KB3D_FAV_Rust"
+     AssignedMaterial "{0B84A453BE2D7735}XOB/Data/KB3D_FAV_Rust.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDF4}" {
+     SourceMaterial "KB3D_FAV_MetalPaintedRed"
+     AssignedMaterial "{0576C61018C38736}XOB/Data/KB3D_FAV_MetalPaintedRed.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDF0}" {
+     SourceMaterial "KB3D_FAV_StuccoBrown"
+     AssignedMaterial "{4B9C3004F780D926}XOB/Data/KB3D_FAV_StuccoBrown.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDF3}" {
+     SourceMaterial "KB3D_FAV_ClearGlass"
+     AssignedMaterial "{00E1A0C62578E90B}XOB/Data/KB3D_FAV_ClearGlass.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDFF}" {
+     SourceMaterial "KB3D_FAV_WoodPlyWhite"
+     AssignedMaterial "{D56B291609222259}XOB/Data/KB3D_FAV_WoodPlyWhite.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFDFA}" {
+     SourceMaterial "KB3D_FAV_StuccoOchre"
+     AssignedMaterial "{887111CDF1D30A54}XOB/Data/KB3D_FAV_StuccoOchre.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD06}" {
+     SourceMaterial "KB3D_FAV_RedBlocks"
+     AssignedMaterial "{DA2F16620796EDDB}XOB/Data/KB3D_FAV_RedBlocks.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD03}" {
+     SourceMaterial "KB3D_FAV_MetalPaintedBlue"
+     AssignedMaterial "{6B4FE47F258BEC4C}XOB/Data/KB3D_FAV_MetalPaintedBlue.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD0E}" {
+     SourceMaterial "KB3D_FAV_IronDark"
+     AssignedMaterial "{62094628F525A052}XOB/Data/KB3D_FAV_IronDark.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD0A}" {
+     SourceMaterial "KB3D_FAV_ConcreteVar"
+     AssignedMaterial "{01EB99C12E46F159}XOB/Data/KB3D_FAV_ConcreteVar.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD15}" {
+     SourceMaterial "KB3D_FAV_Concrete"
+     AssignedMaterial "{C870E1189154A43A}XOB/Data/KB3D_FAV_Concrete.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD17}" {
+     SourceMaterial "KB3D_FAV_WoodPly"
+     AssignedMaterial "{056B71710BE59C43}XOB/Data/KB3D_FAV_WoodPly.emat"
+    }
+    MaterialAssignClass "{6510071F1FACFD11}" {
+     SourceMaterial "CUBE"
+     AssignedMaterial "{DFD023B889E5754D}XOB/Data/CUBE.emat"
+    }
+   }
+   MeshParams {
+    MeshParam CASA5 {
+    }
+    MeshParam CUBE {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA5 {
+     SurfaceProperties {
+      "{02F95595238EF72F}KB3D_FAV_ConcreteFoundationVar.gamemat"
+      "{82A2442284E8944C}KB3D_FAV_MetalPaintedWhite.gamemat"
+      "{9CBA1BE24768AB2E}KB3D_FAV_Rust.gamemat"
+      "{65E8EB24C779B8AD}KB3D_FAV_IronLight.gamemat"
+      "{A2F9A8C17AF0A342}KB3D_FAV_Rubber.gamemat"
+      "{FFD8D48E6765FAE4}KB3D_FAV_MetalPaintedRed.gamemat"
+      "{2B7258C1B65B137E}KB3D_FAV_Plastics.gamemat"
+      "{1BC931663FB417FC}KB3D_FAV_IronDark.gamemat"
+      "{BEA8AB68D45811A8}KB3D_FAV_MetalPaintedBlue.gamemat"
+      "{8BB9ACBAE34225B1}KB3D_FAV_ClearGlass.gamemat"
+      "{31061F07468F6556}KB3D_FAV_WoodPlyWhite.gamemat"
+      "{A94F3EB89512CDB3}KB3D_FAV_RedBlocks.gamemat"
+      "{6AF966683065D757}KB3D_FAV_StuccoBrown.gamemat"
+      "{73A2E8BA208D75E2}KB3D_FAV_StuccoOchre.gamemat"
+      "{88353B7092484C8F}KB3D_FAV_WoodPly.gamemat"
+      "{8C2801F28E527670}KB3D_FAV_Concrete.gamemat"
+      "{8E746B14503399A6}KB3D_FAV_ConcreteVar.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{6510071F1FEFC114}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6510071F1FEFC0D1}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6510071F1FEFC00D}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6510071F1FEFC034}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6510071F1FEFC057}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6510071F1FEFC07C}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

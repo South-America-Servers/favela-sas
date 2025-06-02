@@ -1,0 +1,87 @@
+MetaFileClass {
+ Name "{5D660BFDBD3C4CCB}XOB/CASA4.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6510071B1CA97EAF}" {
+     SourceMaterial "KB3D_FAV_IronLight"
+     AssignedMaterial "{26C0524657EB40F8}XOB/Data/KB3D_FAV_IronLight.emat"
+    }
+    MaterialAssignClass "{6510071B1CA97EC8}" {
+     SourceMaterial "KB3D_FAV_MetalPaintedWhite"
+     AssignedMaterial "{D2F5ABC4DA4682DD}XOB/Data/KB3D_FAV_MetalPaintedWhite.emat"
+    }
+    MaterialAssignClass "{651007187C75503A}" {
+     SourceMaterial "CUBE"
+     AssignedMaterial "{DFD023B889E5754D}XOB/Data/CUBE.emat"
+    }
+    MaterialAssignClass "{6510071B1CA97EFA}" {
+     SourceMaterial "KB3D_FAV_IronDark"
+     AssignedMaterial "{62094628F525A052}XOB/Data/KB3D_FAV_IronDark.emat"
+    }
+    MaterialAssignClass "{6510071B1CA97E08}" {
+     SourceMaterial "KB3D_FAV_ClearGlass"
+     AssignedMaterial "{00E1A0C62578E90B}XOB/Data/KB3D_FAV_ClearGlass.emat"
+    }
+    MaterialAssignClass "{6510071E2C2953CD}" {
+     SourceMaterial "KB3D_FAV_StuccoGray"
+     AssignedMaterial "{3759C86851B35530}XOB/Data/KB3D_FAV_StuccoGray.emat"
+    }
+    MaterialAssignClass "{6510071E2C2953D2}" {
+     SourceMaterial "KB3D_FAV_ConcreteFoundation"
+     AssignedMaterial "{19DA230A966366B0}XOB/Data/KB3D_FAV_ConcreteFoundation.emat"
+    }
+    MaterialAssignClass "{6510071E2C2953DD}" {
+     SourceMaterial "KB3D_FAV_RedBlocksVar"
+     AssignedMaterial "{C9462993BE76262B}XOB/Data/KB3D_FAV_RedBlocksVar.emat"
+    }
+   }
+   MeshParams {
+    MeshParam CUBE {
+    }
+    MeshParam CASA5 {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CUBE {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_CASA5 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{6510071B1C89F786}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6510071B1C89F521}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6510071B1C89F561}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6510071B1C89F491}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6510071B1C89F4B8}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6510071B1C89F4ED}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

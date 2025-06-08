@@ -1,0 +1,75 @@
+MetaFileClass {
+ Name "{E592569268D36CEE}XOB/CASA19.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6590360F458BCD96}" {
+     SourceMaterial "concrete1"
+     AssignedMaterial "{F0AF2FD29F13EAFC}XOB/Data/concrete1.emat"
+    }
+    MaterialAssignClass "{6590360F458BCDA1}" {
+     SourceMaterial "wall1"
+     AssignedMaterial "{F5A79BBADB9DC0A4}XOB/Data/wall1.emat"
+    }
+    MaterialAssignClass "{6590360F458BCDAC}" {
+     SourceMaterial "windoor1"
+     AssignedMaterial "{386B34961BA2E87C}XOB/Data/windoor1.emat"
+    }
+    MaterialAssignClass "{6590360F458BCDAE}" {
+     SourceMaterial "roof"
+     AssignedMaterial "{B320701AB9306F4B}XOB/Data/roof.emat"
+    }
+    MaterialAssignClass "{6590360F458BCDAF}" {
+     SourceMaterial "cube"
+     AssignedMaterial "{DFD023B889E5754D}XOB/Data/CUBE.emat"
+    }
+   }
+   MeshParams {
+    MeshParam CASA19 {
+    }
+    MeshParam CUBE {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA19 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_CUBE {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{6590360F45FCDCCE}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6590360F45FCC3D5}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6590360F45FCC31C}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6590360F45FCC351}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6590360F45FCC28B}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6590360F45FCC2C3}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

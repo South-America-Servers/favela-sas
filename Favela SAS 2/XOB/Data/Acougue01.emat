@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.617 0.617 0.617 1
+ BCRMap "{1053AE638E9C9D75}TEXTURES/Acougue/acougue_completo_acougue_BaseColor.edds"
+}

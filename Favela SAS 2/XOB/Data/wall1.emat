@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.665 0.665 0.665 1
+ BCRMap "{1F4B699AF43729A7}TEXTURES/CASA19/plasterwall01.edds"
+}

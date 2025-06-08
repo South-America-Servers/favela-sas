@@ -42,8 +42,166 @@ TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeath
 ProjectileSoundsManager : "{B4DA8B0024536625}Prefabs/World/Game/ProjectileSoundsManager.et" {
  coords 1398.264 -204.782 1073.986
 }
+SCR_DestructibleBuildingEntity {
+ components {
+  MeshObject "{6590360F2279FCEE}" {
+   Object "{74C4E1F8DEBF923B}XOB/CASA13.xob"
+   LODFactors {
+    20 15 10 1 1
+   }
+   ClutterOccluder 1
+  }
+  RigidBody "{6590360F2279FCFD}" {
+   ResponseIndex "Normal"
+   ModelGeometry 1
+   Static 1
+  }
+  SCR_DestructibleBuildingComponent "{6590360F2279E3A4}" {
+   "Additional hit zones" {
+    SCR_HitZone Default {
+     HZDefault 1
+     MaxHealth 25000
+     DamageReduction 100
+     DamageThreshold 100
+     "Collision multiplier" 2
+     "Melee multiplier" 0
+     "Kinetic multiplier" 0.8
+     "Fragmentation multiplier" 0.3
+     "Explosive multiplier" 6
+    }
+   }
+   m_aEffects {
+    SCR_TimedParticle Particle_Dust_01_Start {
+     m_bSnapToTerrain 1
+     m_Particle SCR_ParticleSpawnable "{6590360F2279FC5E}" {
+      m_Particle "{B0D882F853DE2783}Particles/Enviroment/Building_Explosion_Smoke.ptc"
+      m_bDirectional 0
+     }
+     m_fParticlesMultiplier 0.3
+    }
+    SCR_TimedParticle Particle_Wood_01_Start {
+     m_bSnapToTerrain 1
+     m_Particle SCR_ParticleSpawnable "{6590360F2279FC66}" {
+      m_Particle "{4602DD830FDE578F}Particles/Enviroment/Building_Explosion_Debris_Wood.ptc"
+      m_bDirectional 0
+     }
+     m_fParticlesMultiplier 0.6
+    }
+    SCR_TimedPrefab Prefab_Ruins_01 {
+     m_fSpawnTime 0.1
+     m_sRuinsPrefab "{AE32E09A3E9BD8E5}Prefabs/Structures/Houses/Farm/FarmHouse_E_1L01/Dst/FarmHouse_E_1L01_Ruin.et"
+    }
+    SCR_TimedSound Sound_Wood_01_Start {
+     m_fSpawnTime 0.001
+     m_AudioSourceConfiguration SCR_AudioSourceConfiguration "{6590360F2279FC72}" {
+      m_sSoundProject "{4F906053CB15F1C2}Sounds/Destruction/Buildings/Destruction_Buildings_Wood_Generic.acp"
+      m_sSoundEventName "SOUND_BUILDING_DESTRUCTION"
+      m_eFlags 25
+     }
+    }
+    SCR_TimedSound Sound_Wood_01_End {
+     m_fSpawnTime 0.5
+     m_AudioSourceConfiguration SCR_AudioSourceConfiguration "{6590360F2279FC7A}" {
+      m_sSoundProject "{4F906053CB15F1C2}Sounds/Destruction/Buildings/Destruction_Buildings_Wood_Generic.acp"
+      m_sSoundEventName "SOUND_BUILDING_DESTRUCTION_END"
+      m_eFlags 25
+     }
+    }
+    SCR_TimedSound Sound_Wood_01_PreStart {
+     m_AudioSourceConfiguration SCR_AudioSourceConfiguration "{6590360F2279E380}" {
+      m_sSoundProject "{4F906053CB15F1C2}Sounds/Destruction/Buildings/Destruction_Buildings_Wood_Generic.acp"
+      m_sSoundEventName "SOUND_BUILDING_DESTRUCTION_PRESTART"
+      m_eFlags 25
+     }
+    }
+   }
+   m_aInteriorQueryBoundingBoxes {
+    SCR_InteriorBoundingBox "{62B2A28C48955FF9}" {
+     m_vCenter PointInfo "{6590360F2279E397}" {
+      Offset 1.4871 1.8286 1.0105
+     }
+     m_vScale 7.5 13 20
+    }
+    SCR_InteriorBoundingBox "{62B2A28C4759AF97}" {
+     m_vCenter PointInfo "{6590360F2279E39D}" {
+      Offset -6.2673 1.7401 -5.4498
+     }
+     m_vScale 8 13 7
+    }
+   }
+   m_fDelay 1.5
+   m_fSinkingSpeed 0.8
+   m_fSinkingSpeedGradualMultiplier 450
+   m_fRotationSpeed 15
+   m_fRotationTime 50
+   m_AudioSourceConfiguration SCR_AudioSourceConfiguration "{6590360F2279E39B}" {
+    m_sSoundProject "{4F906053CB15F1C2}Sounds/Destruction/Buildings/Destruction_Buildings_Wood_Generic.acp"
+    m_sSoundEventName "SOUND_BUILDING_DESTRUCTION_BOUNCE"
+    m_eFlags 25
+   }
+   m_CameraShakeCurve {
+    0 1 0.08 0.2 0.2 0.03 1 0.01
+   }
+   m_eAllowedRotations 5
+  }
+  WorldSubsceneComponent "{6590360F2279E3A3}" {
+  }
+  RplComponent "{6590360F2279E3B7}" {
+   Enabled 1
+  }
+  Hierarchy "{6590360F2279E3BC}" {
+  }
+ }
+ Flags 525315
+ coords 1400.053 0 1763.626
+ SlotBoneMappings {
+  SlotBoneMappingObject "{6590360F2279E3C2}" {
+   BonePrefix "socket_door_ext_left"
+   Prefab "{79F622DEBB73D581}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_EXT_COV_B_brown.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3CD}" {
+   BonePrefix "socket_door_int_left"
+   Prefab "{66A908B66DC3277A}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_INT_COV_B.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3C8}" {
+   BonePrefix "socket_win_110x142"
+   Prefab "{203AFC658425D62D}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_110x142_2_B.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3D4}" {
+   BonePrefix "socket_win_130x142"
+   Prefab "{4D1DF12D134D10A6}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_130x142_333_B.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3D0}" {
+   BonePrefix "Socket_Win_130x72"
+   Prefab "{718A5E3465E90E3C}Prefabs/Structures/BuildingParts/Windows/Win_village_e_a_130x72_2_M1_brown.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3D3}" {
+   BonePrefix "socket_win_70x72"
+   Prefab "{DF739D7D6C6DF9A8}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_70x72_1_B.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3DF}" {
+   BonePrefix "Socket_Win_50x75"
+   Prefab "{1F11CE1131DB97E8}Prefabs/Structures/BuildingParts/Windows/win_roof_50x75_1_B.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3DA}" {
+   BonePrefix "Socket_Win_90x130"
+   Prefab "{4FD835A00626678F}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_90x130_2_M1.et"
+  }
+  SlotBoneMappingObject "{6590360F2279E3E5}" {
+   BonePrefix "socket_entry"
+   Prefab "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et"
+  }
+ }
+}
 BasePreloadManager PreloadManager1 : "{104F8505FD1871EF}Prefabs/World/Game/PreloadManager.et" {
  coords 1463.405 -204.782 948.033
+}
+SCR_DestructibleBuildingEntity : "{1F6DC66B1DDA7805}JR 3DS/Prefabs/CASA19.et" {
+ coords 1397.471 0.432 1778.332
+ angleY -104.408
+}
+SCR_DestructibleBuildingEntity : "{2FB65D85894D5A71}JR 3DS/Prefabs/Acougue.et" {
+ coords 1400.505 -0 1747.707
 }
 MusicManager : "{359452CCDBDD03F6}Prefabs/Sounds/Music/MusicManager_Base.et" {
  coords 1499.863 -204.778 1163.528
@@ -51,11 +209,18 @@ MusicManager : "{359452CCDBDD03F6}Prefabs/Sounds/Music/MusicManager_Base.et" {
 GenericEntity : "{434AFBBE90F2B078}Prefabs/Sounds/Environment/AmbientSounds_Everon.et" {
  coords 1491.911 -204.78 1206.432
 }
+SCR_DestructibleBuildingEntity : "{5C48069760C9DC00}JR 3DS/Prefabs/CASA 18.et" {
+ coords 1393.303 0.487 1791.501
+ angleY -103.462
+}
 RadioBroadcastManager : "{66B93BC296E2F977}Prefabs/Radio/RadioBroadcastManager.et" {
  coords 1334.622 -204.784 1409.394
 }
 GenericEntity : "{7699E66077068406}Prefabs/World/Game/ForestSyncManager.et" {
  coords 1370.329 -204.783 1114.838
+}
+SCR_DestructibleBuildingEntity : "{9928B54D216A0B52}JR 3DS/Prefabs/IPIRANGA.et" {
+ coords 1479.725 -0 1799.301
 }
 SCR_MPDestructionManager : "{9BB369F2803C6F71}Prefabs/MP/MPDestructionManager.et" {
  coords 1384.534 -204.783 1059.177

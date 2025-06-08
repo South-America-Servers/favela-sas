@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.708 0.708 0.708 1
+ BCRMap "{CA8579B6C8EAC53E}TEXTURES/Casas aleatorias/test_d_BCR.edds"
+ NMOMap "{A33516DDADA85C6D}TEXTURES/Casas aleatorias/test_n.edds"
+}

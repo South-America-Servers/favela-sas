@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.597 0.597 0.597 1
+ BCRMap "{4B096414AB2B321A}TEXTURES/CASA19/105_concrete bare dirty texture-seamless.edds"
+}

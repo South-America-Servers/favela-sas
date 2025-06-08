@@ -1,2 +1,3 @@
-MatPBRMulti {
+MatPBRMulti : "{DFD023B889E5754D}Assets/Structures/Military/Bunkers/AircraftShelter_E_01/Data/AircraftShelter_E_01_Concrete_2_EXT.emat" {
+ MaskRedScale 2.557
 }

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F7078F3AE6C69317}Assets/Pack 1/XOB/Data/House07_MetalDoor2.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

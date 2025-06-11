@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.456 0.456 0.456 1
+ BCRMap "{FB64355D3EA9A85E}Assets/Pack 1/Textures/plaster-color_LightPink_BCR.edds"
+}

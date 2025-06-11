@@ -1,0 +1,51 @@
+MetaFileClass {
+ Name "{33B8E41A5F5C4A7C}Assets/Pack 1/XOB/CASA 16.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65961561A07B4D38}" {
+     SourceMaterial "House29_BrickWalls"
+     AssignedMaterial "{AE837444F1D154C2}Assets/Pack 1/XOB/Data/House29_BrickWalls.emat"
+    }
+    MaterialAssignClass "{65961561A07B4D4A}" {
+     SourceMaterial "House29_concrete"
+     AssignedMaterial "{5DCE96D34967F721}Assets/Pack 1/XOB/Data/House29_concrete.emat"
+    }
+    MaterialAssignClass "{65961561A07B4D56}" {
+     SourceMaterial "House29_concrete2"
+     AssignedMaterial "{841252BCD49A7497}Assets/Pack 1/XOB/Data/House29_concrete2.emat"
+    }
+    MaterialAssignClass "{65961561A07B4D53}" {
+     SourceMaterial "House29_Concrete3"
+     AssignedMaterial "{701A1524D9471CE3}Assets/Pack 1/XOB/Data/House29_Concrete3.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "16" {
+    }
+   }
+   Common TXOCommonClass "{65961561A06FDEFD}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65961561A06FDD95}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65961561A06FDDC4}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65961561A06FDDE6}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65961561A06FDD02}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65961561A06FDD2F}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

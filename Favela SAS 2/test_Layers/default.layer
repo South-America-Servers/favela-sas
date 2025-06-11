@@ -42,6 +42,26 @@ TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeath
 ProjectileSoundsManager : "{B4DA8B0024536625}Prefabs/World/Game/ProjectileSoundsManager.et" {
  coords 1398.264 -204.782 1073.986
 }
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6596039BC0D5DC00}" {
+    Object "{0E50B5F00D72491A}Assets/Pack 1/XOB/CASA 1.xob"
+   }
+  }
+  coords 1758.597 30.642 1903.806
+  angleY -28.062
+ }
+ {
+  components {
+   MeshObject "{6596039D0C9D22E6}" {
+    Object "{974E0C691095788A}Assets/Pack 1/XOB/CASA 2.xob"
+   }
+  }
+  coords 1767.434 30.524 1908.577
+  angleY -26.086
+ }
+}
 SCR_DestructibleBuildingEntity {
  components {
   MeshObject "{6590360F2279FCEE}" {
@@ -201,7 +221,7 @@ SCR_DestructibleBuildingEntity : "{1F6DC66B1DDA7805}JR 3DS/Prefabs/CASA19.et" {
  angleY -104.408
 }
 SCR_DestructibleBuildingEntity : "{2FB65D85894D5A71}JR 3DS/Prefabs/Acougue.et" {
- coords 1400.505 -0 1747.707
+ coords 1400.505 0 1747.707
 }
 MusicManager : "{359452CCDBDD03F6}Prefabs/Sounds/Music/MusicManager_Base.et" {
  coords 1499.863 -204.778 1163.528
@@ -220,7 +240,7 @@ GenericEntity : "{7699E66077068406}Prefabs/World/Game/ForestSyncManager.et" {
  coords 1370.329 -204.783 1114.838
 }
 SCR_DestructibleBuildingEntity : "{9928B54D216A0B52}JR 3DS/Prefabs/IPIRANGA.et" {
- coords 1479.725 -0 1799.301
+ coords 1479.725 0 1799.301
 }
 SCR_MPDestructionManager : "{9BB369F2803C6F71}Prefabs/MP/MPDestructionManager.et" {
  coords 1384.534 -204.783 1059.177

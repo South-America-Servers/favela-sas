@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E0A4EA9CA57CF7F0}Assets/Pack 1/XOB/Data/House10_doorMetal.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,63 @@
+MetaFileClass {
+ Name "{F3898E919BB04F20}Assets/Pack 1/XOB/CASA 22.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65962DA486CF383D}" {
+     SourceMaterial "House22_Wall"
+     AssignedMaterial "{4D74B6536D7E2E94}Assets/Pack 1/XOB/Data/House22_Wall.emat"
+    }
+    MaterialAssignClass "{65962DA486CF3853}" {
+     SourceMaterial "House22_wall"
+     AssignedMaterial "{4D74B6536D7E2E94}Assets/Pack 1/XOB/Data/House22_Wall.emat"
+    }
+    MaterialAssignClass "{65962DA486CF385E}" {
+     SourceMaterial "House22_Bricks"
+     AssignedMaterial "{87DFF1714D74BD23}Assets/Pack 1/XOB/Data/House22_Bricks.emat"
+    }
+    MaterialAssignClass "{65962DA486CF385B}" {
+     SourceMaterial "House22_concrete02"
+     AssignedMaterial "{2C0800BB6F191C78}Assets/Pack 1/XOB/Data/House22_concrete02.emat"
+    }
+    MaterialAssignClass "{65962DA486CF3867}" {
+     SourceMaterial "House22_concrete01"
+     AssignedMaterial "{72E029F8D0949277}Assets/Pack 1/XOB/Data/House22_concrete01.emat"
+    }
+    MaterialAssignClass "{65962DA486CF386F}" {
+     SourceMaterial "House22_Metal"
+     AssignedMaterial "{446A5231E092B682}Assets/Pack 1/XOB/Data/House22_Metal.emat"
+    }
+    MaterialAssignClass "{65962DA486CF3875}" {
+     SourceMaterial "House22_Glass"
+     AssignedMaterial "{42E4313DD7E975D9}Assets/Pack 1/XOB/Data/House22_Glass.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "22" {
+    }
+   }
+   Common TXOCommonClass "{65962DA486307DAC}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65962DA486307D44}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65962DA486307D76}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65962DA486307C91}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65962DA486307CB9}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65962DA486307CE7}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

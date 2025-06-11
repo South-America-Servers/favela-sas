@@ -1,0 +1,75 @@
+MetaFileClass {
+ Name "{E1DD16EBD4A336F1}Assets/Pack 1/XOB/CASA 39.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65962DB2422A7CD3}" {
+     SourceMaterial "House04_Concrete03"
+     AssignedMaterial "{4675ACA7DECB946B}Assets/Pack 1/XOB/Data/House04_Concrete03.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7CF2}" {
+     SourceMaterial "House04_concrete01"
+     AssignedMaterial "{EC95C27C6C9B7210}Assets/Pack 1/XOB/Data/House04_concrete01.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C05}" {
+     SourceMaterial "House04_Wood02"
+     AssignedMaterial "{14BB93F075166B3F}Assets/Pack 1/XOB/Data/House04_Wood02.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C0D}" {
+     SourceMaterial "House04_metal"
+     AssignedMaterial "{8610D5B76488FD67}Assets/Pack 1/XOB/Data/House04_metal.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C09}" {
+     SourceMaterial "House04_Wood01"
+     AssignedMaterial "{4A53BAB3CA9BE530}Assets/Pack 1/XOB/Data/House04_Wood01.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C11}" {
+     SourceMaterial "House04_glass"
+     AssignedMaterial "{809EB6BB53F33E3C}Assets/Pack 1/XOB/Data/House04_glass.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C1A}" {
+     SourceMaterial "House04_Concrete02"
+     AssignedMaterial "{B27DEB3FD316FC1F}Assets/Pack 1/XOB/Data/House04_Concrete02.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C2D}" {
+     SourceMaterial "House04_Brick"
+     AssignedMaterial "{4D04852BA4AAEE9B}Assets/Pack 1/XOB/Data/House04_Brick.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C28}" {
+     SourceMaterial "Material_#25"
+     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
+    }
+    MaterialAssignClass "{65962DB2422A7C34}" {
+     SourceMaterial "House04_Floor"
+     AssignedMaterial "{95B9E78873038FEF}Assets/Pack 1/XOB/Data/House04_Floor.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "39" {
+    }
+   }
+   Common TXOCommonClass "{65962DB241F57615}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65962DB241F575B8}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65962DB241F575F4}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65962DB241F57510}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65962DB241F5753C}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65962DB241F5755E}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{2CA4589504F66F02}Assets/Pack 1/XOB/Data/uevjbdwew_4K_Albedo.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

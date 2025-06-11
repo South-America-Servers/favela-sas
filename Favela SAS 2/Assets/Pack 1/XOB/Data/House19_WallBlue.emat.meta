@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{FA71EBAFA7095B8E}Assets/Pack 1/XOB/Data/House19_WallBlue.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

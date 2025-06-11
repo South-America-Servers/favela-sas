@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5EE18BDD4A6A8F1E}Assets/Pack 1/XOB/Data/Material_#94.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

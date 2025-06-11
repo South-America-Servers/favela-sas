@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Color 0.384 0.333 0.316 1
+ BCRMap "{0374251E9A58BB8B}Assets/Pack 1/Textures/brick-wall-texture-23905248_V02.edds"
+ NormalPower 2.359
+ NMOMap "{F04AE8468C4FD181}Assets/Pack 1/Textures/brick-wall-texture-23905248_V023_n.edds"
+}

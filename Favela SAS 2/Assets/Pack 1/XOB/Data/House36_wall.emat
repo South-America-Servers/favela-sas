@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Color 0.212 0.212 0.212 1
+ BCRMap "{DB2BB6422CFC7D8C}Assets/Pack 1/Textures/xepkaecs_4K_Albedo_BCR.edds"
+ NormalPower 2.699
+ NMOMap "{28B055BED57C5E3F}Assets/Pack 1/Textures/xepkaecs_4K_N.edds"
+}

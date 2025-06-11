@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.386 0.386 0.386 1
+ BCRMap "{34C3948D2A3E20CA}Assets/Pack 1/Textures/tgshdjwk_4K_BCR.edds"
+ NMOMap "{2CF088EEE83C26A4}Assets/Pack 1/Textures/tgshdjwk_4K_n.edds"
+}

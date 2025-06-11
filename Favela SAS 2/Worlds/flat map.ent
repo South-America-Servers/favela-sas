@@ -1,0 +1,3 @@
+SubScene {
+ Parent "{A49C1E0C25A9BCD2}worlds/Editor/Slots/Slots/Road/SlotRoadSmall/SlotRoadSmall.ent"
+}

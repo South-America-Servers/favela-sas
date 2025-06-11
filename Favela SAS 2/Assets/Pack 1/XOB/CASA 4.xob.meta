@@ -1,0 +1,55 @@
+MetaFileClass {
+ Name "{E7839EB082B12D39}Assets/Pack 1/XOB/CASA 4.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65960390EFBECE4F}" {
+     SourceMaterial "House23_Concrete01"
+     AssignedMaterial "{3C59115F02C3E679}Assets/Pack 1/XOB/Data/House23_Concrete01.emat"
+    }
+    MaterialAssignClass "{65960390EFBECE59}" {
+     SourceMaterial "House23_Bricks"
+     AssignedMaterial "{B8409F135B7813DE}Assets/Pack 1/XOB/Data/House23_Bricks.emat"
+    }
+    MaterialAssignClass "{65960390EFBECE66}" {
+     SourceMaterial "House23_Metal01"
+     AssignedMaterial "{F40589E43E8BF41F}Assets/Pack 1/XOB/Data/House23_Metal01.emat"
+    }
+    MaterialAssignClass "{65960390EFBECE61}" {
+     SourceMaterial "House23_Glass"
+     AssignedMaterial "{DA85D6C33BF3D292}Assets/Props/Civilian/Ashtray_01/Data/Ashtray_01_glass_clear.emat"
+    }
+    MaterialAssignClass "{65960390EFBECE6D}" {
+     SourceMaterial "House23_MetalRoof"
+     AssignedMaterial "{1AE8BCDFD4EA38A4}Assets/Pack 1/XOB/Data/House23_MetalRoof.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "4" {
+    }
+   }
+   Common TXOCommonClass "{65960390EF91DFE1}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65960390EF91DE8E}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65960390EF91DEC8}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65960390EF91DEF5}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65960390EF91DE25}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65960390EF91DE4D}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3D8A82B4FCD58E05}Assets/Pack 1/XOB/Data/House17_Bricks.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

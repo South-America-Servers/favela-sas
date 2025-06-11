@@ -1,0 +1,75 @@
+MetaFileClass {
+ Name "{0E50B5F00D72491A}Assets/Pack 1/XOB/CASA 1.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6596039A03BFFB06}" {
+     SourceMaterial "House02_RedConcrete"
+     AssignedMaterial "{85D13C9705171B1E}Assets/Pack 1/XOB/Data/House02_RedConcrete.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB18}" {
+     SourceMaterial "House02_concrete"
+     AssignedMaterial "{BDD09339B2A24290}Assets/Pack 1/XOB/Data/House02_concrete.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB25}" {
+     SourceMaterial "House02_WhiteMetal"
+     AssignedMaterial "{5022A74706FC7574}Assets/Pack 1/XOB/Data/House02_WhiteMetal.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB27}" {
+     SourceMaterial "House02_BrickWall"
+     AssignedMaterial "{DC7487A67DC333D7}Assets/Pack 1/XOB/Data/House02_BrickWall.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB22}" {
+     SourceMaterial "House02_WhiteWall"
+     AssignedMaterial "{D2EC7DB3D79D6AC8}Assets/Pack 1/XOB/Data/House02_WhiteWall.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB29}" {
+     SourceMaterial "House02_Concrete2"
+     AssignedMaterial "{7A92AE6DA7B29BAB}Assets/Pack 1/XOB/Data/House02_Concrete2.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB2B}" {
+     SourceMaterial "Material_#1584886659"
+     AssignedMaterial "{9524A02469D2695D}Assets/Pack 1/XOB/Data/Material_#1584886659.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB37}" {
+     SourceMaterial "House02_GrayMetal"
+     AssignedMaterial "{DA93A69209DA2A61}Assets/Pack 1/XOB/Data/House02_GrayMetal.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB30}" {
+     SourceMaterial "House02_Whiteconcrete"
+     AssignedMaterial "{60B28265E13E4B5D}Assets/Pack 1/XOB/Data/House02_Whiteconcrete.emat"
+    }
+    MaterialAssignClass "{6596039A03BFFB33}" {
+     SourceMaterial "Material_#25"
+     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "1" {
+    }
+   }
+   Common TXOCommonClass "{6596039A03F9E5AD}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6596039A03FE1455}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6596039A03FE1B97}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6596039A03FE1BBB}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6596039A03FE1BE7}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6596039A03FE1B0B}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

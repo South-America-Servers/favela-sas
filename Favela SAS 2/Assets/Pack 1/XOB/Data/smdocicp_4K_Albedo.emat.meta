@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D4AC5A6ACA0E953B}Assets/Pack 1/XOB/Data/smdocicp_4K_Albedo.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,83 @@
+MetaFileClass {
+ Name "{774C5BD0044972E7}Assets/Pack 1/XOB/CASA 34.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65962DAF7F38D361}" {
+     SourceMaterial "House10_WhiteWall"
+     AssignedMaterial "{A5B2E6C12B6AFD4F}Assets/Pack 1/XOB/Data/House10_WhiteWall.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D28F}" {
+     SourceMaterial "House10_concrete"
+     AssignedMaterial "{E34541B132652BFB}Assets/Pack 1/XOB/Data/House10_concrete.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D293}" {
+     SourceMaterial "House10_yellowWall"
+     AssignedMaterial "{2C1C9EBE60A602A4}Assets/Pack 1/XOB/Data/House10_yellowWall.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2A7}" {
+     SourceMaterial "House10_Eternit"
+     AssignedMaterial "{5660F820A714130B}Assets/Pack 1/XOB/Data/House10_Eternit.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2A2}" {
+     SourceMaterial "House10_metal"
+     AssignedMaterial "{6FF7D65642864870}Assets/Pack 1/XOB/Data/House10_metal.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2A8}" {
+     SourceMaterial "House10_WhiteMetal"
+     AssignedMaterial "{F0D91AD75E59EA00}Assets/Pack 1/XOB/Data/House10_WhiteMetal.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2B0}" {
+     SourceMaterial "House10_Bricks"
+     AssignedMaterial "{8356899A9EF2C6F6}Assets/Pack 1/XOB/Data/House10_Bricks.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2B9}" {
+     SourceMaterial "House10_redMetal"
+     AssignedMaterial "{06DB57A1FA63FCB2}Assets/Pack 1/XOB/Data/House10_redMetal.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2C1}" {
+     SourceMaterial "Material_#354"
+     AssignedMaterial "{7FE010DE9263BDD5}Assets/Pack 1/XOB/Data/Material_#354.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2CD}" {
+     SourceMaterial "Material_#25"
+     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2D6}" {
+     SourceMaterial "House10_Floor"
+     AssignedMaterial "{7C5EE469550D3AF8}Assets/Pack 1/XOB/Data/House10_Floor.emat"
+    }
+    MaterialAssignClass "{65962DAF7F38D2DB}" {
+     SourceMaterial "House10_doorMetal"
+     AssignedMaterial "{E0A4EA9CA57CF7F0}Assets/Pack 1/XOB/Data/House10_doorMetal.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "34" {
+    }
+   }
+   Common TXOCommonClass "{65962DAF7F1B6520}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65962DAF7F1B64C3}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65962DAF7F1B64F9}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65962DAF7F1B642C}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65962DAF7F1B644A}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65962DAF7F1B647C}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

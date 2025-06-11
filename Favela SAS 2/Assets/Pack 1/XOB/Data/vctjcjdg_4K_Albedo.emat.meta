@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{61B6A2D7A5EF600D}Assets/Pack 1/XOB/Data/House07_Concrete02.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

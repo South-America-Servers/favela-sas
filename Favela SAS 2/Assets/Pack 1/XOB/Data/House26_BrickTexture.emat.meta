@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{2F523A16C63ABA59}Assets/Pack 1/XOB/Data/House26_BrickTexture.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

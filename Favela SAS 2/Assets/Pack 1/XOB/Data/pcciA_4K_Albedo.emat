@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.558 0.558 0.558 1
+ BCRMap "{596657F06721E5DF}Assets/Pack 1/Textures/pcciA_4K_Albedo.edds"
+}

@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.542 0.447 0.379 1
+ BCRMap "{B3C5B141ED217635}Assets/Pack 1/SEM BCR/vb1keiug_4K_Albedo.edds"
+}

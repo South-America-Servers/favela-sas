@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{537E828EBE04BE3C}Assets/Pack 1/XOB/Data/Quadra01_Wall02.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

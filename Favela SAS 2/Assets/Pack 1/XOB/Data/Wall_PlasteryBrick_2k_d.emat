@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.539 0.539 0.539 1
+ BCRMap "{4527A34F2EA2947B}Assets/Pack 1/Textures/Wall_PlasteryBrick_2k_d.edds"
+}

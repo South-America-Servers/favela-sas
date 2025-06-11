@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4CF3C4155CA7AF5B}Assets/Pack 1/XOB/Data/House07_EternitTexture.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

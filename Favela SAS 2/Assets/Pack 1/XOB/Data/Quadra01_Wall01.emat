@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.287 0.287 0.287 1
+ BCRMap "{B265620B19A4E93A}Assets/Pack 1/Textures/xepkaecs_4K_Blue01_BCR.edds"
+ NMOMap "{28B055BED57C5E3F}Assets/Pack 1/Textures/xepkaecs_4K_N.edds"
+}

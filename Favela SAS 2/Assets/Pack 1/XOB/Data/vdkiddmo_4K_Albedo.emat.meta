@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{26BF71D9D0097F3F}Assets/Pack 1/XOB/Data/House25_Brickwalls.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

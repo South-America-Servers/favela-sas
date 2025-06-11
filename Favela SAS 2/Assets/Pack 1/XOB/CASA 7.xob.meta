@@ -1,0 +1,55 @@
+MetaFileClass {
+ Name "{7E9D27299F561CA9}Assets/Pack 1/XOB/CASA 7.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6596156F9E5F1903}" {
+     SourceMaterial "House39_Brick"
+     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/House39_Brick.emat"
+    }
+    MaterialAssignClass "{6596156F9E5F191F}" {
+     SourceMaterial "House39_Floor"
+     AssignedMaterial "{798669D5A80FFBF6}Assets/Pack 1/XOB/Data/House39_Floor.emat"
+    }
+    MaterialAssignClass "{6596156F9E5F1924}" {
+     SourceMaterial "Hosue39_ConcretePilar"
+     AssignedMaterial "{6B2708AA43FD57A7}Assets/Pack 1/XOB/Data/Hosue39_ConcretePilar.emat"
+    }
+    MaterialAssignClass "{6596156F9E5F1921}" {
+     SourceMaterial "Material_#25"
+     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
+    }
+    MaterialAssignClass "{6596156F9E5F192C}" {
+     SourceMaterial "Material_#94"
+     AssignedMaterial "{5EE18BDD4A6A8F1E}Assets/Pack 1/XOB/Data/Material_#94.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "7" {
+    }
+   }
+   Common TXOCommonClass "{6596156F9E4D7FB0}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6596156F9E4D7F70}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6596156F9E4D7EA5}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6596156F9E4D7EC7}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6596156F9E4D7EE3}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6596156F9E4D7E14}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{DA2B3AC8B1B27D04}Assets/Pack 1/XOB/Data/House01_Fiber.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

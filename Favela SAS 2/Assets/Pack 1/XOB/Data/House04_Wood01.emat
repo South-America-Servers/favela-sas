@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.323 0.323 0.323 1
+ BCRMap "{B94C511DA3A433C3}Assets/Pack 1/Textures/old_wood.edds"
+}

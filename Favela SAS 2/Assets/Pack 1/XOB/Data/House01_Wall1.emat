@@ -1,3 +1,4 @@
 MatPBRBasic {
+ Color 0.558 0.558 0.558 1
  BCRMap "{C0CEEE24083B724D}Assets/Pack 1/SEM BCR/tfvfdacn_4K_Albedo_White_BCR.edds"
 }

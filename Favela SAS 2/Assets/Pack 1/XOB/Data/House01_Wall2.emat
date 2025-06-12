@@ -1,3 +1,4 @@
 MatPBRBasic {
- BCRMap "{7CBB63E540A5EACA}Assets/Pack 1/Textures/tfvfdacn_4K_Albedo_Yellow.edds"
+ Color 0.708 0.708 0.708 1
+ BCRMap "{7CBB63E540A5EACA}Assets/Pack 1/SEM BCR/tfvfdacn_4K_Albedo_Yellow.edds"
 }

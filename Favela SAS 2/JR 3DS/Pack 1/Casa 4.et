@@ -1,16 +1,8 @@
-GenericEntity {
- components {
-  MeshObject "{659804EA495B9C37}" {
-   Object "{E7839EB082B12D39}Assets/Pack 1/XOB/CASA 4.xob"
-  }
- }
- coords 119.448 0.1 106.307
- angleY 4.81
-}
 SCR_DestructibleBuildingEntity {
+ ID "659804EA0CDAE438"
  components {
   MeshObject "{659804E2929B17C1}" {
-   Object "{E04464E1E43797FA}Assets/Pack 1/XOB/CASA 3.xob"
+   Object "{E7839EB082B12D39}Assets/Pack 1/XOB/CASA 4.xob"
    LODFactors {
     20 15 10 1 1
    }

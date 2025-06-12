@@ -35,9 +35,39 @@ MetaFileClass {
      SourceMaterial "House01_MetalDoor"
      AssignedMaterial "{B6ED178468419414}Assets/Pack 1/XOB/Data/House01_MetalDoor.emat"
     }
+    MaterialAssignClass "{659804E7B45271C6}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
+    }
    }
    MeshParams {
-    MeshParam "2" {
+    MeshParam Casa2 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Casa2 {
+     SurfaceProperties {
+      "{202182D9B50A6FC8}Material #1584886660.gamemat"
+      "{3772C3792B6D28F7}House01_Metal.gamemat"
+      "{5FCF1F29AD036366}House01_Wall2.gamemat"
+      "{711B5C07D369C45D}House01_Wood.gamemat"
+      "{51D15B6190F46CBC}House01_Wall1.gamemat"
+      "{06B7F7E0056458BF}House01_MetalDoor.gamemat"
+      "{9EA8DF91271D16BE}Glass Clear Distorted.gamemat"
+      "{EB571A504CF73D2B}House01_Fiber.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{6596039D6AD5E3EC}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

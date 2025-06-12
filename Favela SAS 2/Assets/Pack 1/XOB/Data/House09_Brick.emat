@@ -1,5 +1,5 @@
 MatPBRBasic {
- Color 0.214 0.214 0.214 1
+ Color 0.162 0.162 0.162 1
  BCRMap "{C75C31D49E0B126E}Assets/Pack 1/Textures/10687208_V02_BCR.edds"
  NormalPower 1.214
  NMOMap "{B4841BFA4E274459}Assets/Pack 1/Textures/10687208__Normal_V02_n.edds"

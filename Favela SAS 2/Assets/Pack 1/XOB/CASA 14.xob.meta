@@ -5,11 +5,11 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{6596156617C848F4}" {
      SourceMaterial "House31_Bricks"
-     AssignedMaterial "{EE132032221453C1}Assets/Pack 1/XOB/Data/House31_Bricks.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{6596156617C84806}" {
      SourceMaterial "House31_concrete"
-     AssignedMaterial "{AB2DDBAFFD74C981}Assets/Pack 1/XOB/Data/House31_concrete.emat"
+     AssignedMaterial "{60B28265E13E4B5D}Assets/Pack 1/XOB/Data/vjyifef_4K_Albedo.emat"
     }
     MaterialAssignClass "{6596156617C84802}" {
      SourceMaterial "House31_Metal"

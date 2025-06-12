@@ -5,27 +5,27 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DAB0110A08D}" {
      SourceMaterial "House16_Bricks01"
-     AssignedMaterial "{72C1B97679E4FA26}Assets/Pack 1/XOB/Data/House16_Bricks01.emat"
+     AssignedMaterial "{87DFF1714D74BD23}Assets/Pack 1/XOB/Data/10687208.emat"
     }
     MaterialAssignClass "{65962DAB0110A0A2}" {
      SourceMaterial "House16_PlasterWall"
-     AssignedMaterial "{B7BD89AB73CE2F57}Assets/Pack 1/XOB/Data/House16_PlasterWall.emat"
+     AssignedMaterial "{4C6E7FEC343EED64}Assets/Pack 1/XOB/Data/PISO_21.emat"
     }
     MaterialAssignClass "{65962DAB0110A0A8}" {
      SourceMaterial "House16_Concrete01"
-     AssignedMaterial "{4C6E7FEC343EED64}Assets/Pack 1/XOB/Data/House16_Concrete01.emat"
+     AssignedMaterial "{4C6E7FEC343EED64}Assets/Pack 1/XOB/Data/PISO_21.emat"
     }
     MaterialAssignClass "{65962DAB0110A0B5}" {
      SourceMaterial "House16_Metal"
-     AssignedMaterial "{D2B38D14EA855E6F}Assets/Pack 1/XOB/Data/House16_Metal.emat"
+     AssignedMaterial "{D2B38D14EA855E6F}Assets/Pack 1/XOB/Data/tebjbjan_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAB0110A0B1}" {
      SourceMaterial "House16_Glass"
-     AssignedMaterial "{D43DEE18DDFE9D34}Assets/Pack 1/XOB/Data/House16_Glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DAB0110A0B8}" {
      SourceMaterial "House16_Floor"
-     AssignedMaterial "{C11ABF2BFD0E2CE7}Assets/Pack 1/XOB/Data/House16_Floor.emat"
+     AssignedMaterial "{7A92AE6DA7B29BAB}Assets/Pack 1/XOB/Data/House02_Concrete2.emat"
     }
    }
    MeshParams {

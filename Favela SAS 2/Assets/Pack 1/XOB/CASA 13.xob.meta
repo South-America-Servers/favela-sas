@@ -5,19 +5,19 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65961564B97BECE6}" {
      SourceMaterial "House32_bricks01"
-     AssignedMaterial "{CFEA1C67786A28F0}Assets/Pack 1/XOB/Data/House32_bricks01.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{65961564B97BECF0}" {
      SourceMaterial "House32_Concrete"
-     AssignedMaterial "{39BC91F3DFA7CB94}Assets/Pack 1/XOB/Data/House32_Concrete.emat"
+     AssignedMaterial "{E08D0CEF2656A70C}Assets/Pack 1/XOB/Data/House33_bricks02.emat"
     }
     MaterialAssignClass "{65961564B97BECFC}" {
      SourceMaterial "House32_MEtal"
-     AssignedMaterial "{7BF53C53F69E187F}Assets/Pack 1/XOB/Data/House32_MEtal.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{65961564B97BECFF}" {
      SourceMaterial "House32_Bricks02"
-     AssignedMaterial "{91023524C7E7A6FF}Assets/Pack 1/XOB/Data/House32_Bricks02.emat"
+     AssignedMaterial "{E08D0CEF2656A70C}Assets/Pack 1/XOB/Data/House33_bricks02.emat"
     }
     MaterialAssignClass "{65961564B97BECFB}" {
      SourceMaterial "Material_#25"
@@ -29,7 +29,7 @@ MetaFileClass {
     }
     MaterialAssignClass "{65961564B97BEC08}" {
      SourceMaterial "House32_Glass"
-     AssignedMaterial "{7D7B5F5FC1E5DB24}Assets/Pack 1/XOB/Data/House32_Glass.emat"
+     AssignedMaterial "{CA04CFF8FA857B8D}Assets/Props/Furniture/Bookshelf_01/data/Bookshelf_01_Glass.emat"
     }
    }
    MeshParams {

@@ -5,23 +5,23 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DB1C0E976F4}" {
      SourceMaterial "House07_BrickWall"
-     AssignedMaterial "{1230611363279E48}Assets/Pack 1/XOB/Data/House07_BrickWall.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{65962DB1C0E9761C}" {
      SourceMaterial "House07_Concrete02"
-     AssignedMaterial "{61B6A2D7A5EF600D}Assets/Pack 1/XOB/Data/House07_Concrete02.emat"
+     AssignedMaterial "{61B6A2D7A5EF600D}Assets/Pack 1/XOB/Data/vctjcjdg_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97618}" {
      SourceMaterial "House07_roofWood"
-     AssignedMaterial "{80F0D2386942C4B9}Assets/Pack 1/XOB/Data/House07_roofWood.emat"
+     AssignedMaterial "{80F0D2386942C4B9}Assets/Pack 1/XOB/Data/Cor Canion TXT.emat"
     }
     MaterialAssignClass "{65962DB1C0E97621}" {
      SourceMaterial "House07_EternitTexture"
-     AssignedMaterial "{4CF3C4155CA7AF5B}Assets/Pack 1/XOB/Data/House07_EternitTexture.emat"
+     AssignedMaterial "{0AF42A8C302374DC}Assets/Pack 1/XOB/Data/vi4idez_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E9763E}" {
      SourceMaterial "House07_InteriorWall"
-     AssignedMaterial "{4C1F0C1EF1AB7DE5}Assets/Pack 1/XOB/Data/House07_InteriorWall.emat"
+     AssignedMaterial "{419ABAD483E3F2F7}Assets/Pack 1/XOB/Data/xepkaecs_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97646}" {
      SourceMaterial "House07_Wall01"
@@ -29,19 +29,19 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB1C0E97648}" {
      SourceMaterial "House07_BrickSloneTexture"
-     AssignedMaterial "{032276399C914305}Assets/Pack 1/XOB/Data/House07_BrickSloneTexture.emat"
+     AssignedMaterial "{16067EBEFCFA1B57}Assets/Pack 1/XOB/Data/xi4uccxjw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97652}" {
      SourceMaterial "House07_Metal"
-     AssignedMaterial "{79CA88E3E47C6D21}Assets/Pack 1/XOB/Data/House07_Metal.emat"
+     AssignedMaterial "{79CA88E3E47C6D21}Assets/Pack 1/XOB/Data/teckfepq_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97659}" {
      SourceMaterial "HOuse07_MetalDoor"
-     AssignedMaterial "{FCC5F3FB1BA0B08F}Assets/Pack 1/XOB/Data/HOuse07_MetalDoor.emat"
+     AssignedMaterial "{FCC5F3FB1BA0B08F}Assets/Pack 1/XOB/Data/scksebop_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97664}" {
      SourceMaterial "House07_MetalDoor2"
-     AssignedMaterial "{F7078F3AE6C69317}Assets/Pack 1/XOB/Data/House07_MetalDoor2.emat"
+     AssignedMaterial "{F7078F3AE6C69317}Assets/Pack 1/XOB/Data/vb1megjew_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E9767D}" {
      SourceMaterial "Material_#25"
@@ -49,15 +49,15 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB1C0E97678}" {
      SourceMaterial "Material_#81"
-     AssignedMaterial "{7A1560847FAA5E03}Assets/Pack 1/XOB/Data/Material_#81.emat"
+     AssignedMaterial "{7A1560847FAA5E03}Assets/Pack 1/XOB/Data/pjBlJ_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97584}" {
      SourceMaterial "House07_Floor"
-     AssignedMaterial "{6A63BADCF3F71FA9}Assets/Pack 1/XOB/Data/House07_Floor.emat"
+     AssignedMaterial "{D21B946888310D03}Assets/Pack 1/XOB/Data/vhqkdbt_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97587}" {
      SourceMaterial "Material_#80"
-     AssignedMaterial "{8E1D271C72773677}Assets/Pack 1/XOB/Data/Material_#80.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
    }
    MeshParams {

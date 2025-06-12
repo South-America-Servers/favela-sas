@@ -5,11 +5,11 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DA66A6C1FFA}" {
      SourceMaterial "House21_Bricks"
-     AssignedMaterial "{C77E43D777614E24}Assets/Pack 1/XOB/Data/House21_Bricks.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{65962DA66A6C1F14}" {
      SourceMaterial "House21_concrete"
-     AssignedMaterial "{16A67AB0BED1A30C}Assets/Pack 1/XOB/Data/House21_concrete.emat"
+     AssignedMaterial "{E3E545BF704E93A0}Assets/Pack 1/XOB/Data/vddidey_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA66A6C1F17}" {
      SourceMaterial "House21_Floor"
@@ -17,7 +17,7 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DA66A6C1F13}" {
      SourceMaterial "House21_Metal"
-     AssignedMaterial "{BBB00F65606626C4}Assets/Pack 1/XOB/Data/House21_Metal.emat"
+     AssignedMaterial "{BBB00F65606626C4}Assets/Pack 1/XOB/Data/tj4kedvcw_4K_Albedo.emat"
     }
    }
    MeshParams {

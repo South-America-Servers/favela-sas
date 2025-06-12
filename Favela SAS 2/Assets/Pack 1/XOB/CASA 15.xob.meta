@@ -5,19 +5,19 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65961566906096FB}" {
      SourceMaterial "House30_Concrete01"
-     AssignedMaterial "{D21B946888310D03}Assets/Pack 1/XOB/Data/House30_Concrete01.emat"
+     AssignedMaterial "{D21B946888310D03}Assets/Pack 1/XOB/Data/vhqkdbt_4K_Albedo.emat"
     }
     MaterialAssignClass "{6596156690609611}" {
      SourceMaterial "House30_Bricks"
-     AssignedMaterial "{D18C4E503418FD3C}Assets/Pack 1/XOB/Data/House30_Bricks.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{659615669060961D}" {
      SourceMaterial "House30_metal"
-     AssignedMaterial "{10C90A926E9F158A}Assets/Pack 1/XOB/Data/House30_metal.emat"
+     AssignedMaterial "{10C90A926E9F158A}Assets/Pack 1/XOB/Data/tj0kddgfw_4K_Albedo.emat"
     }
     MaterialAssignClass "{6596156690609619}" {
      SourceMaterial "House30_Conreteroof"
-     AssignedMaterial "{3DA9905ABAE4B755}Assets/Pack 1/XOB/Data/House30_Conreteroof.emat"
+     AssignedMaterial "{3DA9905ABAE4B755}Assets/Pack 1/XOB/Data/uhxlcdrlw_4K_Albedo.emat"
     }
     MaterialAssignClass "{6596156690609624}" {
      SourceMaterial "Material_#25"
@@ -25,7 +25,7 @@ MetaFileClass {
     }
     MaterialAssignClass "{659615669060962C}" {
      SourceMaterial "House30_Pilarconcrete"
-     AssignedMaterial "{7A124561F8560BE0}Assets/Pack 1/XOB/Data/House30_Pilarconcrete.emat"
+     AssignedMaterial "{7A124561F8560BE0}Assets/Pack 1/XOB/Data/ui1obbtew_4K_Albedo.emat"
     }
    }
    MeshParams {

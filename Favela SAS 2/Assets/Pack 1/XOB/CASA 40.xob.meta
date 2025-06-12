@@ -5,15 +5,15 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DB29BC4DE6E}" {
      SourceMaterial "House03_concretefloor"
-     AssignedMaterial "{59ACFE5F0AF544B3}Assets/Pack 1/XOB/Data/House03_concretefloor.emat"
+     AssignedMaterial "{419ABAD483E3F2F7}Assets/Pack 1/XOB/Data/xepkaecs_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB29BC4DE7F}" {
      SourceMaterial "House03_Bricks"
-     AssignedMaterial "{EA9A58D9F1922814}Assets/Pack 1/XOB/Data/House03_Bricks.emat"
+     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/10687208_V02.emat"
     }
     MaterialAssignClass "{65962DB29BC4DE7A}" {
      SourceMaterial "House03_Concrete01"
-     AssignedMaterial "{474A88E0FAD508A9}Assets/Pack 1/XOB/Data/House03_Concrete01.emat"
+     AssignedMaterial "{60B28265E13E4B5D}Assets/Pack 1/XOB/Data/vjyifef_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB29BC4DD81}" {
      SourceMaterial "Material_#25"
@@ -21,15 +21,15 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB29BC4DD8C}" {
      SourceMaterial "House03_Metal02"
-     AssignedMaterial "{49F3D330426479F6}Assets/Pack 1/XOB/Data/House03_Metal02.emat"
+     AssignedMaterial "{91B0C0FDE11DB0E5}Assets/Pack 1/XOB/Data/sglfedgc_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB29BC4DD8B}" {
      SourceMaterial "House03_glass"
-     AssignedMaterial "{A93C866CE305B590}Assets/Pack 1/XOB/Data/House03_glass.emat"
+     AssignedMaterial "{DA85D6C33BF3D292}Assets/Props/Civilian/Ashtray_01/Data/Ashtray_01_glass_clear.emat"
     }
     MaterialAssignClass "{65962DB29BC4DD96}" {
      SourceMaterial "House03_metal"
-     AssignedMaterial "{AFB2E560D47E76CB}Assets/Pack 1/XOB/Data/House03_metal.emat"
+     AssignedMaterial "{992BAAFCA33B8CD7}Assets/Pack 1/XOB/Data/Hous33_Metal.emat"
     }
    }
    MeshParams {

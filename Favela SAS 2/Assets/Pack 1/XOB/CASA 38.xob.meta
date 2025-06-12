@@ -5,27 +5,27 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DB3D9A564FB}" {
      SourceMaterial "House05_Wall01"
-     AssignedMaterial "{316A44718287BA66}Assets/Pack 1/XOB/Data/House05_Wall01.emat"
+     AssignedMaterial "{7A1560847FAA5E03}Assets/Pack 1/XOB/Data/pjBlJ_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB3D9A5642C}" {
      SourceMaterial "House05_concrete01"
-     AssignedMaterial "{A22CFADBBECC061E}Assets/Pack 1/XOB/Data/House05_concrete01.emat"
+     AssignedMaterial "{2CA4589504F66F02}Assets/Pack 1/XOB/Data/uevjbdwew_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB3D9A56430}" {
      SourceMaterial "House05_Wall02"
-     AssignedMaterial "{6F826D323D0A3469}Assets/Pack 1/XOB/Data/House05_Wall02.emat"
+     AssignedMaterial "{419ABAD483E3F2F7}Assets/Pack 1/XOB/Data/xepkaecs_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB3D9A56444}" {
      SourceMaterial "House05_WhiteMetal"
-     AssignedMaterial "{FBFDEDDB90B20FCD}Assets/Pack 1/XOB/Data/House05_WhiteMetal.emat"
+     AssignedMaterial "{07583D6A34EFE366}Assets/Pack 1/XOB/Data/House0_MetalBlue2.emat"
     }
     MaterialAssignClass "{65962DB3D9A56441}" {
      SourceMaterial "House05_Glass"
-     AssignedMaterial "{1478DD2E4B06A38F}Assets/Pack 1/XOB/Data/House05_Glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DB3D9A56449}" {
      SourceMaterial "House05_concrete02"
-     AssignedMaterial "{FCC4D39801418811}Assets/Pack 1/XOB/Data/House05_concrete02.emat"
+     AssignedMaterial "{FCC4D39801418811}Assets/Pack 1/XOB/Data/Wall_MossyStone_2k_d.emat"
     }
     MaterialAssignClass "{65962DB3D9A5644B}" {
      SourceMaterial "Material_#25"

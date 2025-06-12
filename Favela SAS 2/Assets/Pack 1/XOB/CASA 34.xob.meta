@@ -5,39 +5,39 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DAF7F38D361}" {
      SourceMaterial "House10_WhiteWall"
-     AssignedMaterial "{A5B2E6C12B6AFD4F}Assets/Pack 1/XOB/Data/House10_WhiteWall.emat"
+     AssignedMaterial "{A5B2E6C12B6AFD4F}Assets/Pack 1/XOB/Data/plaster-color.emat"
     }
     MaterialAssignClass "{65962DAF7F38D28F}" {
      SourceMaterial "House10_concrete"
-     AssignedMaterial "{E34541B132652BFB}Assets/Pack 1/XOB/Data/House10_concrete.emat"
+     AssignedMaterial "{841252BCD49A7497}Assets/Pack 1/XOB/Data/pcciA_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAF7F38D293}" {
      SourceMaterial "House10_yellowWall"
-     AssignedMaterial "{2C1C9EBE60A602A4}Assets/Pack 1/XOB/Data/House10_yellowWall.emat"
+     AssignedMaterial "{E6E6A4400056728C}Assets/Pack 1/XOB/Data/plaster-color_yellow.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2A7}" {
      SourceMaterial "House10_Eternit"
-     AssignedMaterial "{5660F820A714130B}Assets/Pack 1/XOB/Data/House10_Eternit.emat"
+     AssignedMaterial "{3DA9905ABAE4B755}Assets/Pack 1/XOB/Data/uhxlcdrlw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2A2}" {
      SourceMaterial "House10_metal"
-     AssignedMaterial "{6FF7D65642864870}Assets/Pack 1/XOB/Data/House10_metal.emat"
+     AssignedMaterial "{DDF830F0D9AE3316}Assets/Pack 1/XOB/Data/Metal_Painted_2k_d3.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2A8}" {
      SourceMaterial "House10_WhiteMetal"
-     AssignedMaterial "{F0D91AD75E59EA00}Assets/Pack 1/XOB/Data/House10_WhiteMetal.emat"
+     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2B0}" {
      SourceMaterial "House10_Bricks"
-     AssignedMaterial "{8356899A9EF2C6F6}Assets/Pack 1/XOB/Data/House10_Bricks.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2B9}" {
      SourceMaterial "House10_redMetal"
-     AssignedMaterial "{06DB57A1FA63FCB2}Assets/Pack 1/XOB/Data/House10_redMetal.emat"
+     AssignedMaterial "{06DB57A1FA63FCB2}Assets/Pack 1/XOB/Data/xhtnbhlg_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2C1}" {
      SourceMaterial "Material_#354"
-     AssignedMaterial "{7FE010DE9263BDD5}Assets/Pack 1/XOB/Data/Material_#354.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2CD}" {
      SourceMaterial "Material_#25"
@@ -45,11 +45,11 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DAF7F38D2D6}" {
      SourceMaterial "House10_Floor"
-     AssignedMaterial "{7C5EE469550D3AF8}Assets/Pack 1/XOB/Data/House10_Floor.emat"
+     AssignedMaterial "{7C5EE469550D3AF8}Assets/Pack 1/XOB/Data/ufgwfenfw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAF7F38D2DB}" {
      SourceMaterial "House10_doorMetal"
-     AssignedMaterial "{E0A4EA9CA57CF7F0}Assets/Pack 1/XOB/Data/House10_doorMetal.emat"
+     AssignedMaterial "{E0A4EA9CA57CF7F0}Assets/Pack 1/XOB/Data/td1kaean_4K_Albedo.emat"
     }
    }
    MeshParams {

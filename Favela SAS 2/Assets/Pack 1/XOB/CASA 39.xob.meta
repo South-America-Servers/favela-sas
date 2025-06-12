@@ -9,15 +9,15 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB2422A7CF2}" {
      SourceMaterial "House04_concrete01"
-     AssignedMaterial "{EC95C27C6C9B7210}Assets/Pack 1/XOB/Data/House04_concrete01.emat"
+     AssignedMaterial "{EC95C27C6C9B7210}Assets/Pack 1/XOB/Data/xevlegbs_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB2422A7C05}" {
      SourceMaterial "House04_Wood02"
-     AssignedMaterial "{14BB93F075166B3F}Assets/Pack 1/XOB/Data/House04_Wood02.emat"
+     AssignedMaterial "{14BB93F075166B3F}Assets/Pack 1/XOB/Data/old_wood.emat"
     }
     MaterialAssignClass "{65962DB2422A7C0D}" {
      SourceMaterial "House04_metal"
-     AssignedMaterial "{8610D5B76488FD67}Assets/Pack 1/XOB/Data/House04_metal.emat"
+     AssignedMaterial "{E0A4EA9CA57CF7F0}Assets/Pack 1/XOB/Data/td1kaean_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB2422A7C09}" {
      SourceMaterial "House04_Wood01"
@@ -25,15 +25,15 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB2422A7C11}" {
      SourceMaterial "House04_glass"
-     AssignedMaterial "{809EB6BB53F33E3C}Assets/Pack 1/XOB/Data/House04_glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DB2422A7C1A}" {
      SourceMaterial "House04_Concrete02"
-     AssignedMaterial "{B27DEB3FD316FC1F}Assets/Pack 1/XOB/Data/House04_Concrete02.emat"
+     AssignedMaterial "{A5B2E6C12B6AFD4F}Assets/Pack 1/XOB/Data/plaster-color.emat"
     }
     MaterialAssignClass "{65962DB2422A7C2D}" {
      SourceMaterial "House04_Brick"
-     AssignedMaterial "{4D04852BA4AAEE9B}Assets/Pack 1/XOB/Data/House04_Brick.emat"
+     AssignedMaterial "{16067EBEFCFA1B57}Assets/Pack 1/XOB/Data/xi4uccxjw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB2422A7C28}" {
      SourceMaterial "Material_#25"
@@ -41,7 +41,7 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB2422A7C34}" {
      SourceMaterial "House04_Floor"
-     AssignedMaterial "{95B9E78873038FEF}Assets/Pack 1/XOB/Data/House04_Floor.emat"
+     AssignedMaterial "{8384B93DD5F9AABE}Assets/Pack 1/XOB/Data/House13_Floor.emat"
     }
    }
    MeshParams {

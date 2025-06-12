@@ -3,49 +3,69 @@ MetaFileClass {
  Configurations {
   FBXResourceClass PC {
    MaterialAssigns {
-    MaterialAssignClass "{6596039A03BFFB06}" {
-     SourceMaterial "House02_RedConcrete"
-     AssignedMaterial "{85D13C9705171B1E}Assets/Pack 1/XOB/Data/House02_RedConcrete.emat"
+    MaterialAssignClass "{659804E2554BD792}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
     }
-    MaterialAssignClass "{6596039A03BFFB18}" {
-     SourceMaterial "House02_concrete"
-     AssignedMaterial "{BDD09339B2A24290}Assets/Pack 1/XOB/Data/House02_concrete.emat"
-    }
-    MaterialAssignClass "{6596039A03BFFB25}" {
-     SourceMaterial "House02_WhiteMetal"
-     AssignedMaterial "{5022A74706FC7574}Assets/Pack 1/XOB/Data/House02_WhiteMetal.emat"
-    }
-    MaterialAssignClass "{6596039A03BFFB27}" {
-     SourceMaterial "House02_BrickWall"
-     AssignedMaterial "{DC7487A67DC333D7}Assets/Pack 1/XOB/Data/House02_BrickWall.emat"
-    }
-    MaterialAssignClass "{6596039A03BFFB22}" {
-     SourceMaterial "House02_WhiteWall"
-     AssignedMaterial "{D2EC7DB3D79D6AC8}Assets/Pack 1/XOB/Data/House02_WhiteWall.emat"
-    }
-    MaterialAssignClass "{6596039A03BFFB29}" {
-     SourceMaterial "House02_Concrete2"
-     AssignedMaterial "{7A92AE6DA7B29BAB}Assets/Pack 1/XOB/Data/House02_Concrete2.emat"
-    }
-    MaterialAssignClass "{6596039A03BFFB2B}" {
+    MaterialAssignClass "{659804E2615E643B}" {
      SourceMaterial "Material_#1584886659"
      AssignedMaterial "{9524A02469D2695D}Assets/Pack 1/XOB/Data/Material_#1584886659.emat"
     }
-    MaterialAssignClass "{6596039A03BFFB37}" {
+    MaterialAssignClass "{659804E2615E645C}" {
+     SourceMaterial "House02_WhiteMetal"
+     AssignedMaterial "{5022A74706FC7574}Assets/Pack 1/XOB/Data/House02_WhiteMetal.emat"
+    }
+    MaterialAssignClass "{659804E2615E6458}" {
+     SourceMaterial "House02_concrete"
+     AssignedMaterial "{BDD09339B2A24290}Assets/Pack 1/XOB/Data/House02_concrete.emat"
+    }
+    MaterialAssignClass "{659804E2615E6465}" {
+     SourceMaterial "House02_Concrete2"
+     AssignedMaterial "{7A92AE6DA7B29BAB}Assets/Pack 1/XOB/Data/House02_Concrete2.emat"
+    }
+    MaterialAssignClass "{659804E2615E6461}" {
      SourceMaterial "House02_GrayMetal"
      AssignedMaterial "{DA93A69209DA2A61}Assets/Pack 1/XOB/Data/House02_GrayMetal.emat"
     }
-    MaterialAssignClass "{6596039A03BFFB30}" {
-     SourceMaterial "House02_Whiteconcrete"
-     AssignedMaterial "{60B28265E13E4B5D}Assets/Pack 1/XOB/Data/House02_Whiteconcrete.emat"
+    MaterialAssignClass "{659804E2615E646B}" {
+     SourceMaterial "House02_RedConcrete"
+     AssignedMaterial "{85D13C9705171B1E}Assets/Pack 1/XOB/Data/House02_RedConcrete.emat"
     }
-    MaterialAssignClass "{6596039A03BFFB33}" {
-     SourceMaterial "Material_#25"
-     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
+    MaterialAssignClass "{659804E2615E6470}" {
+     SourceMaterial "House02_Whiteconcrete"
+     AssignedMaterial "{60B28265E13E4B5D}Assets/Pack 1/XOB/Data/vjyifef_4K_Albedo.emat"
+    }
+    MaterialAssignClass "{659804E2615E647D}" {
+     SourceMaterial "House02_WhiteWall"
+     AssignedMaterial "{D2EC7DB3D79D6AC8}Assets/Pack 1/XOB/Data/House02_WhiteWall.emat"
+    }
+    MaterialAssignClass "{659804E2615E6479}" {
+     SourceMaterial "House02_BrickWall"
+     AssignedMaterial "{DC7487A67DC333D7}Assets/Pack 1/XOB/Data/House02_BrickWall.emat"
     }
    }
    MeshParams {
-    MeshParam "1" {
+    MeshParam Cube {
+    }
+    MeshParam Casa1 {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Casa1 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{6596039A03F9E5AD}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

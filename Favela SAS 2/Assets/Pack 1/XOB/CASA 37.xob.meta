@@ -5,7 +5,7 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DB0B4CE759E}" {
      SourceMaterial "House06_BricksWall01"
-     AssignedMaterial "{C4A155F4F8A71B50}Assets/Pack 1/XOB/Data/House06_BricksWall01.emat"
+     AssignedMaterial "{78326446F9FCA61C}Assets/Pack 1/XOB/Data/vetldgcv_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB0B4CE75AB}" {
      SourceMaterial "House06_Wall"
@@ -17,7 +17,7 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB0B4CE75BD}" {
      SourceMaterial "House06_glass"
-     AssignedMaterial "{EBA2807ACBF233C9}Assets/Pack 1/XOB/Data/House06_glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DB0B4CE75BA}" {
      SourceMaterial "House06_doorMetal"
@@ -37,7 +37,7 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DB0B4CE75CA}" {
      SourceMaterial "House06_floor"
-     AssignedMaterial "{FE85D149EB02821A}Assets/Pack 1/XOB/Data/House06_floor.emat"
+     AssignedMaterial "{7C5EE469550D3AF8}Assets/Pack 1/XOB/Data/ufgwfenfw_4K_Albedo.emat"
     }
    }
    MeshParams {

@@ -9,31 +9,31 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DAE3C0535DB}" {
      SourceMaterial "House08_Metal"
-     AssignedMaterial "{BE6882D99D64E7CA}Assets/Pack 1/XOB/Data/House08_Metal.emat"
+     AssignedMaterial "{07583D6A34EFE366}Assets/Pack 1/XOB/Data/House0_MetalBlue2.emat"
     }
     MaterialAssignClass "{65962DAE3C0535EE}" {
      SourceMaterial "Material_#241"
-     AssignedMaterial "{3559C5DE92C28240}Assets/Pack 1/XOB/Data/Material_#241.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DAE3C0535F1}" {
      SourceMaterial "House08_Metal02"
-     AssignedMaterial "{3BDF89DEBFB98662}Assets/Pack 1/XOB/Data/House08_Metal02.emat"
+     AssignedMaterial "{06DB57A1FA63FCB2}Assets/Pack 1/XOB/Data/xhtnbhlg_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAE3C0535FC}" {
      SourceMaterial "House08_BrickWall01"
-     AssignedMaterial "{C16B0E3A8B02A677}Assets/Pack 1/XOB/Data/House08_BrickWall01.emat"
+     AssignedMaterial "{463D269B034AA82A}Assets/Pack 1/XOB/Data/tmgnacbkw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAE3C0535F9}" {
      SourceMaterial "House08_WhiteWall"
-     AssignedMaterial "{0C95513243BE0765}Assets/Pack 1/XOB/Data/House08_WhiteWall.emat"
+     AssignedMaterial "{0C95513243BE0765}Assets/Pack 1/XOB/Data/tkxkafjaw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAE3C053500}" {
      SourceMaterial "House08_BrickWall02"
-     AssignedMaterial "{9F832779348F2878}Assets/Pack 1/XOB/Data/House08_BrickWall02.emat"
+     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/10687208_V02.emat"
     }
     MaterialAssignClass "{65962DAE3C053508}" {
      SourceMaterial "Material_#242"
-     AssignedMaterial "{6BB1EC9D2D4F0C4F}Assets/Pack 1/XOB/Data/Material_#242.emat"
+     AssignedMaterial "{D2EC7DB3D79D6AC8}Assets/Pack 1/XOB/Data/House02_WhiteWall.emat"
     }
    }
    MeshParams {

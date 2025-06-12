@@ -5,19 +5,19 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DA2DBDC5E27}" {
      SourceMaterial "House26_Concrete"
-     AssignedMaterial "{00FB3628B32C9046}Assets/Pack 1/XOB/Data/House26_Concrete.emat"
+     AssignedMaterial "{A838693494261A49}Assets/Pack 1/XOB/Data/tgshdjwk_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA2DBDC5E3A}" {
      SourceMaterial "House26_Concrete01"
-     AssignedMaterial "{0AF42A8C302374DC}Assets/Pack 1/XOB/Data/House26_Concrete01.emat"
+     AssignedMaterial "{0AF42A8C302374DC}Assets/Pack 1/XOB/Data/vi4idez_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA2DBDC5E47}" {
      SourceMaterial "House26_BrickTexture"
-     AssignedMaterial "{2F523A16C63ABA59}Assets/Pack 1/XOB/Data/House26_BrickTexture.emat"
+     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/10687208_V02.emat"
     }
     MaterialAssignClass "{65962DA2DBDC5E4C}" {
      SourceMaterial "House26_MetalRoof"
-     AssignedMaterial "{D4AC5A6ACA0E953B}Assets/Pack 1/XOB/Data/House26_MetalRoof.emat"
+     AssignedMaterial "{D4AC5A6ACA0E953B}Assets/Pack 1/XOB/Data/smdocicp_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA2DBDC5E49}" {
      SourceMaterial "Material_#25"
@@ -25,15 +25,15 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DA2DBDC5E56}" {
      SourceMaterial "House26_metal02"
-     AssignedMaterial "{26354CD781A71061}Assets/Pack 1/XOB/Data/House26_metal02.emat"
+     AssignedMaterial "{26354CD781A71061}Assets/Pack 1/XOB/Data/tjzjeaaaw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA2DBDC5E52}" {
      SourceMaterial "House26_glass"
-     AssignedMaterial "{949C5CBEE7EB6E33}Assets/Pack 1/XOB/Data/House26_glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DA2DBDC5E5E}" {
      SourceMaterial "Material_#383"
-     AssignedMaterial "{DB61D46ACDB044AF}Assets/Pack 1/XOB/Data/Material_#383.emat"
+     AssignedMaterial "{DB61D46ACDB044AF}Assets/Pack 1/XOB/Data/wbstejl_4K_Albedo.emat"
     }
    }
    MeshParams {

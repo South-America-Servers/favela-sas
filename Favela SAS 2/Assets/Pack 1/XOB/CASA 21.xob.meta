@@ -5,15 +5,15 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DA421ED3994}" {
      SourceMaterial "House24_Concrete"
-     AssignedMaterial "{E3E545BF704E93A0}Assets/Pack 1/XOB/Data/House24_Concrete.emat"
+     AssignedMaterial "{E3E545BF704E93A0}Assets/Pack 1/XOB/Data/vddidey_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA421ED39A7}" {
      SourceMaterial "House24_Brick01"
-     AssignedMaterial "{7D48B9C3126965A7}Assets/Pack 1/XOB/Data/House24_Brick01.emat"
+     AssignedMaterial "{A838693494261A49}Assets/Pack 1/XOB/Data/tgshdjwk_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DA421ED39A3}" {
      SourceMaterial "House24_metal"
-     AssignedMaterial "{F92E09734891A09D}Assets/Pack 1/XOB/Data/House24_metal.emat"
+     AssignedMaterial "{036AC1BBC1B5B841}Assets/Pack 1/XOB/Data/Metal_Painted_2k_d2.emat"
     }
    }
    MeshParams {

@@ -5,35 +5,35 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DAA58A8C9E4}" {
      SourceMaterial "House15_WallBrtickWhite"
-     AssignedMaterial "{78326446F9FCA61C}Assets/Pack 1/XOB/Data/House15_WallBrtickWhite.emat"
+     AssignedMaterial "{78326446F9FCA61C}Assets/Pack 1/XOB/Data/vetldgcv_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAA58A8C9F4}" {
      SourceMaterial "House15_WallBrickRed"
-     AssignedMaterial "{4424C45008C86198}Assets/Pack 1/XOB/Data/House15_WallBrickRed.emat"
+     AssignedMaterial "{4424C45008C86198}Assets/Pack 1/XOB/Data/vetldgcv_4K_Red.emat"
     }
     MaterialAssignClass "{65962DAA58A8C9F0}" {
      SourceMaterial "House15_Bricks01"
-     AssignedMaterial "{E050F32A5B37F833}Assets/Pack 1/XOB/Data/House15_Bricks01.emat"
+     AssignedMaterial "{463D269B034AA82A}Assets/Pack 1/XOB/Data/tmgnacbkw_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAA58A8C9F3}" {
      SourceMaterial "Material_#1584886685"
-     AssignedMaterial "{412D356A131BEAE2}Assets/Pack 1/XOB/Data/Material_#1584886685.emat"
+     AssignedMaterial "{412D356A131BEAE2}Assets/Pack 1/XOB/Data/Vendinha02.emat"
     }
     MaterialAssignClass "{65962DAA58A8C9FD}" {
      SourceMaterial "Material_#1584886684"
-     AssignedMaterial "{B52572F21EC68296}Assets/Pack 1/XOB/Data/Material_#1584886684.emat"
+     AssignedMaterial "{B52572F21EC68296}Assets/Pack 1/XOB/Data/Vendinha01.emat"
     }
     MaterialAssignClass "{65962DAA58A8C9FB}" {
      SourceMaterial "House15_Metal"
-     AssignedMaterial "{2D69D0406A71CE29}Assets/Pack 1/XOB/Data/House15_Metal.emat"
+     AssignedMaterial "{2D69D0406A71CE29}Assets/Pack 1/XOB/Data/tj0kddgfw_4K_Gray.emat"
     }
     MaterialAssignClass "{65962DAA58A8C907}" {
      SourceMaterial "House15_Marble"
-     AssignedMaterial "{5F878177C235CB35}Assets/Pack 1/XOB/Data/House15_Marble.emat"
+     AssignedMaterial "{5F878177C235CB35}Assets/Pack 1/XOB/Data/Slag_stone_pxr128_bmp.emat"
     }
     MaterialAssignClass "{65962DAA58A8C902}" {
      SourceMaterial "House15_concrete"
-     AssignedMaterial "{16067EBEFCFA1B57}Assets/Pack 1/XOB/Data/House15_concrete.emat"
+     AssignedMaterial "{16067EBEFCFA1B57}Assets/Pack 1/XOB/Data/xi4uccxjw_4K_Albedo.emat"
     }
    }
    MeshParams {

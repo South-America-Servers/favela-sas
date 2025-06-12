@@ -5,35 +5,35 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DAC58937752}" {
      SourceMaterial "House12_Concrete"
-     AssignedMaterial "{005B3226F107281D}Assets/Pack 1/XOB/Data/House12_Concrete.emat"
+     AssignedMaterial "{1FBA5E5EB555B73D}Assets/Pack 1/XOB/Data/wjvnbdv_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAC5893768C}" {
      SourceMaterial "House12_Metals"
-     AssignedMaterial "{91B0C0FDE11DB0E5}Assets/Pack 1/XOB/Data/House12_Metals.emat"
+     AssignedMaterial "{91B0C0FDE11DB0E5}Assets/Pack 1/XOB/Data/sglfedgc_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAC58937697}" {
      SourceMaterial "House12_Greenmetal"
-     AssignedMaterial "{DDF830F0D9AE3316}Assets/Pack 1/XOB/Data/House12_Greenmetal.emat"
+     AssignedMaterial "{DDF830F0D9AE3316}Assets/Pack 1/XOB/Data/Metal_Painted_2k_d3.emat"
     }
     MaterialAssignClass "{65962DAC5893769E}" {
      SourceMaterial "House12_Glass"
-     AssignedMaterial "{0245839BEDFC86DE}Assets/Pack 1/XOB/Data/House12_Glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DAC589376A7}" {
      SourceMaterial "House12_PlasterWall"
-     AssignedMaterial "{419ABAD483E3F2F7}Assets/Pack 1/XOB/Data/House12_PlasterWall.emat"
+     AssignedMaterial "{419ABAD483E3F2F7}Assets/Pack 1/XOB/Data/xepkaecs_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAC589376B5}" {
      SourceMaterial "House12_Bricks"
-     AssignedMaterial "{FC68555EB2EB9B0C}Assets/Pack 1/XOB/Data/House12_Bricks.emat"
+     AssignedMaterial "{87DFF1714D74BD23}Assets/Pack 1/XOB/Data/10687208.emat"
     }
     MaterialAssignClass "{65962DAC589376B8}" {
      SourceMaterial "House12_Concrete02"
-     AssignedMaterial "{6A9255DB6B0485C0}Assets/Pack 1/XOB/Data/House12_Concrete02.emat"
+     AssignedMaterial "{0AF42A8C302374DC}Assets/Pack 1/XOB/Data/vi4idez_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DAC589376C0}" {
      SourceMaterial "House12_sandbricks"
-     AssignedMaterial "{C5F5DCD0CEFC36F9}Assets/Pack 1/XOB/Data/House12_sandbricks.emat"
+     AssignedMaterial "{16067EBEFCFA1B57}Assets/Pack 1/XOB/Data/xi4uccxjw_4K_Albedo.emat"
     }
    }
    MeshParams {

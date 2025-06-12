@@ -5,19 +5,19 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{65962DA98F05D997}" {
      SourceMaterial "House18_Bricks"
-     AssignedMaterial "{3D5D1B61877D878D}Assets/Pack 1/XOB/Data/House18_Bricks.emat"
+     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/10687208_V02.emat"
     }
     MaterialAssignClass "{65962DA98F05D9A7}" {
      SourceMaterial "House18_Concrete01"
-     AssignedMaterial "{59200B3EB1482E85}Assets/Pack 1/XOB/Data/House18_Concrete01.emat"
+     AssignedMaterial "{71740FE3529D91B5}Assets/Pack 1/XOB/Data/plaster_damagedbrown1_2k_alb.emat"
     }
     MaterialAssignClass "{65962DA98F05D9AC}" {
      SourceMaterial "House18_metal"
-     AssignedMaterial "{81F7ECBB8B684937}Assets/Pack 1/XOB/Data/House18_metal.emat"
+     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
     }
     MaterialAssignClass "{65962DA98F05D9AF}" {
      SourceMaterial "House18_Glass"
-     AssignedMaterial "{87798FB7BC138A6C}Assets/Pack 1/XOB/Data/House18_Glass.emat"
+     AssignedMaterial "{CA04CFF8FA857B8D}Assets/Props/Furniture/Bookshelf_01/data/Bookshelf_01_Glass.emat"
     }
    }
    MeshParams {

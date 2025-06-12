@@ -1,15 +1,8 @@
-GenericEntity {
- components {
-  MeshObject "{659804EA495B9C37}" {
-  }
- }
- coords 119.448 0.1 106.307
- angleY 4.81
-}
 SCR_DestructibleBuildingEntity {
+ ID "659804ED69C7752B"
  components {
   MeshObject "{659804E2929B17C1}" {
-   Object "{E7839EB082B12D39}Assets/Pack 1/XOB/CASA 4.xob"
+   Object "{9089F6387613C249}Assets/Pack 1/XOB/CASA 5.xob"
    LODFactors {
     20 15 10 1 1
    }
@@ -157,8 +150,4 @@ SCR_DestructibleBuildingEntity {
    Prefab "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et"
   }
  }
-}
-SCR_DestructibleBuildingEntity : "{C91FCA88D19F1ADC}JR 3DS/Pack 1/Casa 4.et" {
- coords 120.947 0.1 106.748
- angleY 0
 }

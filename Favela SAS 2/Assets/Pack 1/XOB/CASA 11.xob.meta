@@ -5,15 +5,39 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{6596156A91BA5524}" {
      SourceMaterial "House34_Bricks01"
-     AssignedMaterial "{A838693494261A49}Assets/Pack 1/XOB/Data/House34_Bricks01.emat"
+     AssignedMaterial "{A838693494261A49}Assets/Pack 1/XOB/Data/tgshdjwk_4K_Albedo.emat"
     }
     MaterialAssignClass "{6596156A91BA5535}" {
      SourceMaterial "House34_Concrete01"
      AssignedMaterial "{AA0F971C6886EBA8}Assets/Pack 1/XOB/Data/House34_Concrete01.emat"
     }
+    MaterialAssignClass "{659804F30DDBD9DD}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
+    }
    }
    MeshParams {
-    MeshParam "11" {
+    MeshParam Casa11 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Casa11 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{6596156A91A30541}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

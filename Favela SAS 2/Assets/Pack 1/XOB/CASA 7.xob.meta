@@ -5,7 +5,7 @@ MetaFileClass {
    MaterialAssigns {
     MaterialAssignClass "{6596156F9E5F1903}" {
      SourceMaterial "House39_Brick"
-     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/House39_Brick.emat"
+     AssignedMaterial "{A13B0B767FA69A82}Assets/Pack 1/XOB/Data/10687208_V02.emat"
     }
     MaterialAssignClass "{6596156F9E5F191F}" {
      SourceMaterial "House39_Floor"
@@ -15,17 +15,37 @@ MetaFileClass {
      SourceMaterial "Hosue39_ConcretePilar"
      AssignedMaterial "{6B2708AA43FD57A7}Assets/Pack 1/XOB/Data/Hosue39_ConcretePilar.emat"
     }
-    MaterialAssignClass "{6596156F9E5F1921}" {
-     SourceMaterial "Material_#25"
-     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
-    }
     MaterialAssignClass "{6596156F9E5F192C}" {
      SourceMaterial "Material_#94"
      AssignedMaterial "{5EE18BDD4A6A8F1E}Assets/Pack 1/XOB/Data/Material_#94.emat"
     }
+    MaterialAssignClass "{659804EFD1E2357D}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
+    }
    }
    MeshParams {
-    MeshParam "7" {
+    MeshParam Casa7 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Casa7 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{6596156F9E4D7FB0}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

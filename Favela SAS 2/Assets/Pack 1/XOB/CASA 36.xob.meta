@@ -27,17 +27,17 @@ MetaFileClass {
      SourceMaterial "House07_Wall01"
      AssignedMaterial "{4E5498B5AE9EE79C}Assets/Pack 1/XOB/Data/House07_Wall01.emat"
     }
-    MaterialAssignClass "{65962DB1C0E97648}" {
-     SourceMaterial "House07_BrickSloneTexture"
-     AssignedMaterial "{16067EBEFCFA1B57}Assets/Pack 1/XOB/Data/xi4uccxjw_4K_Albedo.emat"
+    MaterialAssignClass "{65962DB1C0E97587}" {
+     SourceMaterial "Material_#80"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
     }
     MaterialAssignClass "{65962DB1C0E97652}" {
      SourceMaterial "House07_Metal"
      AssignedMaterial "{79CA88E3E47C6D21}Assets/Pack 1/XOB/Data/teckfepq_4K_Albedo.emat"
     }
-    MaterialAssignClass "{65962DB1C0E97659}" {
-     SourceMaterial "HOuse07_MetalDoor"
-     AssignedMaterial "{FCC5F3FB1BA0B08F}Assets/Pack 1/XOB/Data/scksebop_4K_Albedo.emat"
+    MaterialAssignClass "{65962DB1C0E97584}" {
+     SourceMaterial "House07_Floor"
+     AssignedMaterial "{D21B946888310D03}Assets/Pack 1/XOB/Data/vhqkdbt_4K_Albedo.emat"
     }
     MaterialAssignClass "{65962DB1C0E97664}" {
      SourceMaterial "House07_MetalDoor2"
@@ -51,17 +51,33 @@ MetaFileClass {
      SourceMaterial "Material_#81"
      AssignedMaterial "{7A1560847FAA5E03}Assets/Pack 1/XOB/Data/pjBlJ_4K_Albedo.emat"
     }
-    MaterialAssignClass "{65962DB1C0E97584}" {
-     SourceMaterial "House07_Floor"
-     AssignedMaterial "{D21B946888310D03}Assets/Pack 1/XOB/Data/vhqkdbt_4K_Albedo.emat"
-    }
-    MaterialAssignClass "{65962DB1C0E97587}" {
-     SourceMaterial "Material_#80"
-     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
+    MaterialAssignClass "{65995D31EBAC9F21}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
     }
    }
    MeshParams {
-    MeshParam "36" {
+    MeshParam CASA36 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA36 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{65962DB1C02B6B3D}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

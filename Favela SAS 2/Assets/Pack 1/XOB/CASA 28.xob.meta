@@ -19,9 +19,33 @@ MetaFileClass {
      SourceMaterial "Quadra01_Floor"
      AssignedMaterial "{8B820D184A477F16}Assets/Pack 1/XOB/Data/Quadra01_Floor.emat"
     }
+    MaterialAssignClass "{65995D2F9A6935FC}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
+    }
    }
    MeshParams {
-    MeshParam "28" {
+    MeshParam CASA28 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA28 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{65962DA82A8263E5}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

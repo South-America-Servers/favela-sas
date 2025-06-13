@@ -27,17 +27,37 @@ MetaFileClass {
      SourceMaterial "House05_concrete02"
      AssignedMaterial "{FCC4D39801418811}Assets/Pack 1/XOB/Data/Wall_MossyStone_2k_d.emat"
     }
-    MaterialAssignClass "{65962DB3D9A5644B}" {
-     SourceMaterial "Material_#25"
-     AssignedMaterial "{52FABD7506838D74}Assets/Pack 1/XOB/Data/Material_#25.emat"
-    }
     MaterialAssignClass "{65962DB3D9A56457}" {
      SourceMaterial "House05_Floor"
      AssignedMaterial "{015F8C1D6BF6125C}Assets/Pack 1/XOB/Data/House05_Floor.emat"
     }
+    MaterialAssignClass "{65995D33E85C4AA4}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
+    }
    }
    MeshParams {
-    MeshParam "38" {
+    MeshParam CASA38 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA38 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{65962DB3D9E8F4EB}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

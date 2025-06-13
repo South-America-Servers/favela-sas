@@ -9,23 +9,23 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DA9CF1AE03B}" {
      SourceMaterial "House19_Gray"
-     AssignedMaterial "{01111D7FD74522B0}Assets/Pack 1/XOB/Data/House19_Gray.emat"
+     AssignedMaterial "{7A92AE6DA7B29BAB}Assets/Pack 1/XOB/Data/House02_Concrete2.emat"
     }
     MaterialAssignClass "{65962DA9CF1AE040}" {
      SourceMaterial "House19_PinkWall01"
-     AssignedMaterial "{E00D549227DD4284}Assets/Pack 1/XOB/Data/House19_PinkWall01.emat"
+     AssignedMaterial "{6F87DCAB2D97BC47}Assets/Pack 1/XOB/Data/brick-wall-texture-23905248_V02.emat"
     }
     MaterialAssignClass "{65962DA9CF1AE04C}" {
      SourceMaterial "House19_Metal"
-     AssignedMaterial "{1511872E939DD484}Assets/Pack 1/XOB/Data/House19_Metal.emat"
+     AssignedMaterial "{C48ED3A14C7F7B3E}Assets/Pack 1/XOB/Data/House01_Metal.emat"
     }
     MaterialAssignClass "{65962DA9CF1AE04F}" {
      SourceMaterial "House19_PinkWall02"
-     AssignedMaterial "{BEE57DD19850CC8B}Assets/Pack 1/XOB/Data/House19_PinkWall02.emat"
+     AssignedMaterial "{E19AB9D045B36985}Assets/Pack 1/XOB/Data/House09_Brick.emat"
     }
     MaterialAssignClass "{65962DA9CF1AE050}" {
      SourceMaterial "House19_YellowWall"
-     AssignedMaterial "{928DA0F0739EBBFC}Assets/Pack 1/XOB/Data/House19_YellowWall.emat"
+     AssignedMaterial "{7A92AE6DA7B29BAB}Assets/Pack 1/XOB/Data/House02_Concrete2.emat"
     }
     MaterialAssignClass "{65962DA9CF1AE053}" {
      SourceMaterial "Material_#25"
@@ -33,15 +33,39 @@ MetaFileClass {
     }
     MaterialAssignClass "{65962DA9CF1AE05E}" {
      SourceMaterial "House19_metal02"
-     AssignedMaterial "{633DD3F00B7D9A74}Assets/Pack 1/XOB/Data/House19_metal02.emat"
+     AssignedMaterial "{C48ED3A14C7F7B3E}Assets/Pack 1/XOB/Data/House01_Metal.emat"
     }
     MaterialAssignClass "{65962DA9CF1AE059}" {
      SourceMaterial "House19_Glass"
-     AssignedMaterial "{139FE422A4E617DF}Assets/Pack 1/XOB/Data/House19_Glass.emat"
+     AssignedMaterial "{A22ABF4C49B9F015}Assets/Props/Airport/ATCPanel_E_01/Data/ATCPanel_E_01_glass.emat"
+    }
+    MaterialAssignClass "{65995D203BDC355C}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
     }
    }
    MeshParams {
-    MeshParam "25" {
+    MeshParam CASA25 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA25 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{65962DA9CF7FED06}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

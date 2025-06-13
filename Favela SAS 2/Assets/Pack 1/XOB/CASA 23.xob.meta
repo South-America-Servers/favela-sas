@@ -19,9 +19,33 @@ MetaFileClass {
      SourceMaterial "House21_Metal"
      AssignedMaterial "{BBB00F65606626C4}Assets/Pack 1/XOB/Data/tj4kedvcw_4K_Albedo.emat"
     }
+    MaterialAssignClass "{65995D263AA2F961}" {
+     SourceMaterial "CubeBase"
+     AssignedMaterial "{5D0B1DE7FC3B828E}Assets/Pack 1/XOB/Data/CubeBase.emat"
+    }
    }
    MeshParams {
-    MeshParam "23" {
+    MeshParam CASA23 {
+    }
+    MeshParam Cube {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_CASA23 {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{B393F062AAE9EB74}Common/Materials/Game/brick.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Cube {
+     LayerPreset "BuildingFireView"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
     }
    }
    Common TXOCommonClass "{65962DA66A445B67}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
